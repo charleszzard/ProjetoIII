@@ -1,0 +1,2109 @@
+[
+  {
+    "id_questoes": "1",
+    "texto": "O Princípio da Dignidade da Pessoa Humana é um dos fundamentos da República Federativa do Brasil?",
+    "alternativas": "{\"a\": \"Não, é um objetivo.\", \"b\": \"Sim, é um de seus fundamentos.\", \"c\": \"Não, é um direito social.\", \"d\": \"Sim, é um direito fundamental.\"}",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "2",
+    "texto": "O Código Penal brasileiro adota, em regra, a teoria da ubiquidade para determinar o lugar do crime?",
+    "alternativas": "{\"a\": \"Sim.\", \"b\": \"Não, a teoria da atividade.\", \"c\": \"Não, a teoria do resultado.\", \"d\": \"Não, a teoria mista ou da ubiquidade.\"}",
+    "gabarito": "D",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "3",
+    "texto": "A medida cautelar de busca e apreensão a ser cumprida no escritório do advogado José foi regularmente deferida... Assinale a afirmativa correta.",
+    "alternativas": "A) É dever do representante da OAB... \nB) A análise dos documentos... \nC) Caso seja essencial... \nD) É direito de José estar presente...",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "4",
+    "texto": "Em relação à inovação da ordem constitucional que instituiu a nominada Súmula Vinculante, é correto afirmar que:",
+    "alternativas": "(A) somente os Tribunais Superiores podem editá-la.\n(B) podem ser canceladas, mas vedada a mera revisão.\n(C) a proposta para edição da Súmula pode ser provocada pelos legitimados para a propositura da ação direta de inconstitucionalidade.\n(D) desde que haja reiteradas decisões...",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "5",
+    "texto": "Considerando que nos termos dispostos no art. 133 da Constituição do Brasil, o advogado é indispensável à administração da justiça...",
+    "alternativas": "(A) a imunidade profissional não pode sofrer restrições...\n(B) nenhuma demanda judicial...\n(C) a inviolabilidade do escritório ou local de trabalho é assegurada nos termos da lei...\n(D) a prisão do advogado...",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "6",
+    "texto": "Em relação aos Ministros de Estado, a Constituição do Brasil estabelece que:",
+    "alternativas": "(A) como delegatários do Presidente da República... \n(B) podem expedir instruções... \n(C) somente os brasileiros natos... \n(D) respondem, qualquer que seja a infração...",
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "7",
+    "texto": "Sobre o instrumento jurídico denominado Medida Provisória que não é lei, mas tem força de lei, assinale a afirmativa correta.",
+    "alternativas": "(A) A sua eficácia dura sessenta dias... \n(B) Se a Medida Provisória perder eficácia... \n(C) A não apreciação pela Câmara... \n(D) A edição de Medida Provisória torna prejudicado...",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "8",
+    "texto": "O Congresso Nacional e suas respectivas Casas se reúnem anualmente para a atividade legislativa...",
+    "alternativas": "(A) Legislatura: o período... \n(B) Sessão legislativa: os quatro anos... \n(C) Sessão conjunta: a reunião... \n(D) Sessão extraordinária: a que ocorre por convocação...",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "9",
+    "texto": "A respeito do Conselho Nacional de Justiça é correto afirmar que:",
+    "alternativas": "(A) é órgão integrante do Poder Judiciário... \n(B) pode rever, de ofício ou mediante provocação... \n(C) seus atos sujeitam-se ao controle... \n(D) a presidência é exercida pelo Ministro...",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "10",
+    "texto": "A obrigatoriedade ou necessidade de deliberação plenária dos tribunais, no sistema de controle de constitucionalidade brasileiro, significa que:",
+    "alternativas": "(A) somente pelo voto da maioria absoluta... \n(B) a parte legitimamente interessada pode recorrer... \n(C) somente nas sessões plenárias... \n(D) a competência do Supremo Tribunal Federal...",
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "11",
+    "texto": "Sabe-se a polêmica ainda existente na doutrina constitucionalista pátria no que se refere à eventual hierarquia da Lei Complementar...",
+    "alternativas": "(A) A Lei Complementar exige aprovação por maioria absoluta... \n(B) As matérias que devem ser regradas por Lei Complementar... \n(C) As matérias reservadas à Lei Complementar... \n(D) A discussão e votação dos projetos de lei ordinária...",
+    "gabarito": "D",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "12",
+    "texto": "Declarando o Supremo Tribunal Federal, incidentalmente, a inconstitucionalidade de lei ou ato normativo federal...",
+    "alternativas": "(A) ao Procurador-Geral da República... \n(B) ao Presidente da República editar decreto... \n(C) ao Senado Federal suspender a execução da lei... \n(D) ao Advogado-Geral da União...",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "13",
+    "texto": "Um determinado Estado-membro editou lei estabelecendo disciplina uniforme para a data de vencimento das mensalidades...",
+    "alternativas": "(A) mensalidade escolar versa sobre direito obrigacional... \n(B) a matéria legislada tem por objeto prestação de serviço... \n(C) por versar o conteúdo da lei sobre educação... \n(D) somente competirá aos Estados-membros legislar...",
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "14",
+    "texto": "No âmbito do Poder discricionário da Administração Pública, não se admite que o agente público administrativo exerça o Poder discricionário",
+    "alternativas": "(A) quando estiver diante de conceitos...\n(B) quando estiver diante de conceitos legais...\n(C) quando estiver diante de conceitos valorativos...\n(D) em situações em que a redação da Lei se encontra insatisfatória ou ultrapassada.",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "15",
+    "texto": "Uma determinada empresa concessionária transfere o seu controle acionário para uma outra empresa privada, sem notificar...",
+    "alternativas": "(A) Poderá o Poder concedente declarar a caducidade... \n(B) Poderá retomar o serviço... \n(C) Poderá o Poder concedente anular o contrato... \n(D) Nada poderá fazer o Poder concedente...",
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "16",
+    "texto": "O poder de polícia, conferindo a possibilidade de o Estado limitar o exercício da liberdade ou das faculdades de proprietário...",
+    "alternativas": "(A) gera a possibilidade de cobrança... \n(B) se instrumentaliza sempre por meio de alvará... \n(C) afasta a razoabilidade... \n(D) deve ser exercido nos limites da lei...",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "17",
+    "texto": "A doutrina costuma afirmar que certas prerrogativas postas à Administração encerram verdadeiros poderes...",
+    "alternativas": "(A) o poder regulamentar é amplo... \n(B) o poder disciplinar importa à administração... \n(C) o poder de polícia se coloca discricionário... \n(D) o poder hierárquico é inerente à ideia de verticalização...",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "18",
+    "texto": "Uma das características dos contratos administrativos é a “instabilidade” quanto ao seu objeto que decorre",
+    "alternativas": "(A) do poder conferido à Administração Pública de alterar... \n(B) da possibilidade do contratado (particular) alterar... \n(C) do poder conferido à Administração Pública de alterar... \n(D) de não haver qualquer possibilidade de alteração...",
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "19",
+    "texto": "Em determinado procedimento administrativo disciplinar, a Administração federal impôs, ao servidor, a pena de advertência...",
+    "alternativas": "(A) agiu em desrespeito aos princípios da eficiência... \n(B) agiu em respeito aos princípios da legalidade e autotutela... \n(C) não observou o princípio da dignidade da pessoa humana... \n(D) não observou o princípio do devido processo legal...",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "20",
+    "texto": "Acerca do tombamento, como uma das formas de o Estado intervir na propriedade privada...",
+    "alternativas": "(A) Os proprietários são obrigados a colocar os seus imóveis... \n(B) Os proprietários são obrigados a suportar a fiscalização... \n(C) Os proprietários não podem destruir... \n(D) Os proprietários não podem alienar os bens...",
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "21",
+    "texto": "No Direito Público brasileiro, o grau de autonomia das Agências Reguladoras é definido por uma independência",
+    "alternativas": "(A) administrativa total e absoluta... \n(B) administrativa mitigada... \n(C) legislativa total e absoluta... \n(D) política decisória...",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "22",
+    "texto": "Nas hipóteses de desapropriação, em regra geral, os requisitos constitucionais a serem observados pela Administração Pública são os seguintes:",
+    "alternativas": "(A) comprovação da necessidade ou utilidade pública... \n(B) comprovação da necessidade ou utilidade pública... pagamento de indenização prévia... \n(C) comprovação da necessidade ou utilidade pública... pagamento em títulos... \n(D) comprovação da necessidade... pagamento posterior...",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "23",
+    "texto": "Determinada Administração Pública realiza concurso para preenchimento de cargos de detetive... Os vinte primeiros classificados são desviados...",
+    "alternativas": "(A) Os referidos agentes têm razão... \n(B) É inconstitucional toda modalidade de provimento... \n(C) Não têm ainda o direito... \n(D) É inconstitucional esta modalidade...",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "24",
+    "texto": "Passando por dificuldades financeiras, Alexandre instituiu uma hipoteca sobre imóvel de sua propriedade...",
+    "alternativas": "(A) está incorreta... \n(B) está incorreta, porque Alexandre está livre para alienar o imóvel... \n(C) está incorreta, uma vez que a hipoteca é nula... \n(D) está correta...",
+    "gabarito": "B",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "25",
+    "texto": "Jane e Carlos constituíram uma união estável em julho de 2003 e não celebraram contrato...",
+    "alternativas": "(A) Por se tratar de bem adquirido a título oneroso... \n(B) Carlos não tem direito a partilhar o imóvel... \n(C) Carlos não tem direito a partilhar o imóvel... \n(D) Carlos tem direito a partilhar o imóvel...",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "26",
+    "texto": "A respeito das diferenças e semelhanças entre prescrição e decadência, no Código Civil, é correto afirmar que:",
+    "alternativas": "(A) a prescrição acarreta a extinção do direito potestativo... \n(B) os prazos prescricionais podem ser suspensos... \n(C) não se pode renunciar à decadência legal... \n(D) a prescrição é exceção que deve ser alegada...",
+    "gabarito": "B",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "27",
+    "texto": "Durante dez anos, empregados de uma fabricante de extrato de tomate distribuíram, gratuitamente, sementes...",
+    "alternativas": "(A) deriva da violação à boa-fé objetiva... \n(B) deriva da ruptura de um pré-contrato... \n(C) surgiu, como instituto jurídico... \n(D) segue o destino da responsabilidade contratual...",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "28",
+    "texto": "Por meio de uma promessa de compra e venda, celebrada por instrumento particular registrada no cartório...",
+    "alternativas": "(A) requerer ao juiz a adjudicação do imóvel... \n(B) usucapir o imóvel... \n(C) desistir do negócio e pedir o dinheiro de volta. \n(D) exigir a substituição do imóvel...",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "29",
+    "texto": "Em 2004, Joaquim, que não tinha herdeiros necessários, lavrou um testamento contemplando como sua herdeira universal Ana...",
+    "alternativas": "(A) Rubens. \n(B) Catarina. \n(C) Ana. \n(D) A herança será vacante.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "30",
+    "texto": "João prometeu transferir a propriedade de uma coisa certa, mas antes disso, sem culpa sua, o bem foi deteriorado.",
+    "alternativas": "(A) a obrigação fica resolvida... \n(B) a obrigação subsiste... \n(C) a obrigação subsiste... \n(D) a obrigação poderá ser resolvida... ou subsistir...",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "31",
+    "texto": "Assinale a alternativa que contemple exclusivamente obrigação propter rem",
+    "alternativas": "(A) a obrigação de indenizar decorrente da aluvião... \n(B) a hipoteca e o dever de pagar as cotas condominiais. \n(C) o dever que tem o servidor da posse... \n(D) a obrigação que tem o proprietário de um terreno de indenizar...",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "32",
+    "texto": "Com relação ao regime da solidariedade passiva, é correto afirmar que:",
+    "alternativas": "(A) cada herdeiro pode ser demandado pela dívida toda... \n(B) com a perda do objeto por culpa de um dos devedores solidários... \n(C) se houver atraso injustificado... \n(D) as exceções podem ser aproveitadas...",
+    "gabarito": "B",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "33",
+    "texto": "Sobre o constituto possessório, assinale a alternativa correta.",
+    "alternativas": "(A) Trata-se de modo originário de aquisição da propriedade. \n(B) Trata-se de modo originário de aquisição da posse. \n(C) Representa uma tradição ficta. \n(D) É imprescindível para que se opere a transferência...",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "34",
+    "texto": "O Mandado de Segurança Coletivo, previsto no art. 5º, inciso LXX da Constituição da República...",
+    "alternativas": "(A) qualquer cidadão tem legitimidade... \n(B) no mandado de segurança coletivo, a sentença fará coisa julgada limitadamente... \n(C) o mandado de segurança coletivo pode ser utilizado... \n(D) o mandado de segurança coletivo induz litispendência...",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "35",
+    "texto": "A capacidade é um dos pressupostos processuais. Caso o juiz verifique que uma das partes é incapaz...",
+    "alternativas": "(A) Se o vício se referir ao autor... \n(B) Se o vício se referir ao autor... \n(C) Se o vício se referir ao réu, deve o juiz reputá-lo revel. \n(D) Se o vício se referir ao réu...",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "36",
+    "texto": "A incompetência do juízo, tal como prevista no CPC, pode assumir duas feições...",
+    "alternativas": "(A) A incompetência relativa pode ser alegada a qualquer tempo. \n(B) A incompetência relativa sempre pode ser conhecida de ofício... \n(C) A incompetência absoluta gera a nulidade... \n(D) A incompetência absoluta é alegada como preliminar da contestação...",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "37",
+    "texto": "Com relação ao procedimento da execução por quantia certa, contra devedor solvente...",
+    "alternativas": "(A) o executado é citado para, no prazo de três dias... \n(B) o credor só pode indicar os bens... \n(C) o juiz pode, de ofício, e a qualquer tempo... \n(D) o juiz somente fixará os honorários...",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "38",
+    "texto": "As medidas cautelares estão expressamente previstas no CPC como forma de instrumentalizar a tutela...",
+    "alternativas": "(A) o Juiz, como regra, deve deferir medidas cautelares... \n(B) o direito brasileiro admite apenas medidas cautelares incidentais... \n(C) interposto recurso nos autos principais... \n(D) salvo decisão em contrário, a cautelar conserva sua eficácia...",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "39",
+    "texto": "A Lei n. 9.099/95 disciplina os chamados Juizados Especiais Cíveis no âmbito Estadual...",
+    "alternativas": "(A) Não é cabível nenhuma forma de intervenção de terceiros nem de assistência. \n(B) É vedado o litisconsórcio. \n(C) Nas ações propostas por microempresas... \n(D) Se o pedido formulado for genérico...",
+    "gabarito": "A",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "40",
+    "texto": "Se, durante a audiência de instrução e julgamento, um advogado, exercendo seu mister de bem defender os interesses...",
+    "alternativas": "(A) contraditar a testemunha, devendo a audiência... \n(B) contraditar a testemunha, que mesmo assim poderá ser ouvida como informante... \n(C) contraditar a testemunha, hipótese em que estará o juiz obrigado... \n(D) contraditar a testemunha, que será ouvida após a audiência...",
+    "gabarito": "B",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "41",
+    "texto": "Um advogado é procurado em seu escritório por um cliente que lhe narra que a empresa da qual ele é diretor foi citada...",
+    "alternativas": "(A) requerer a designação de audiência de conciliação... \n(B) apresentar desde logo contestação... \n(C) apresentar contestação e alegar expressamente, em preliminar, a existência de convenção de arbitragem... \n(D) solicitar ao juiz o julgamento antecipado...",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "42",
+    "texto": "Com relação ao procedimento da curatela dos interditos, é correto afirmar que:",
+    "alternativas": "(A) na ausência dos pais, do tutor e do cônjuge, um parente próximo pode requerer a interdição. \n(B) a sentença proferida pelo juiz faz coisa julgada material. \n(C) a realização de prova pericial... \n(D) o Ministério Público não tem legitimidade...",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "43",
+    "texto": "Com relação ao regime de férias, é correto afirmar que:",
+    "alternativas": "(A) as férias devem ser pagas... \n(B) salvo para as gestantes... \n(C) o empregado que pede demissão antes de completado seu primeiro período aquisitivo faz jus a férias proporcionais. \n(D) as férias podem ser convertidas...",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "44",
+    "texto": "A respeito do regime de compensação de jornada do banco de horas, assinale a alternativa correta.",
+    "alternativas": "(A) Pode ser instituído mediante acordo... \n(B) Não admite compensação de jornada que ultrapassar o limite máximo de 10 horas diárias \n(C) Pode ser compensado após a rescisão... \n(D) O excesso de jornada a ser compensada...",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "45",
+    "texto": "No contexto da teoria das nulidades do contrato de trabalho, assinale a alternativa correta",
+    "alternativas": "(A) Configurado o trabalho ilícito... \n(B) Os trabalhos noturno, perigoso e insalubre do menor de 18 (dezoito) anos de idade são modalidades de trabalho proibido ou irregular. \n(C) O trabalho do menor de 16 (dezesseis) anos... \n(D) A falta de anotação da Carteira de Trabalho...",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "46",
+    "texto": "Marcos foi contratado para o cargo de escriturário de um banco privado. Iniciada sua atividade, Marcos percebeu...",
+    "alternativas": "(A) o pedido está inepto... \n(B) o pedido deve ser julgado improcedente... \n(C) o pedido deve ser julgado procedente, se for demonstrado, pelo empregado... \n(D) o pedido deve ser julgado procedente em parte...",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "47",
+    "texto": "O empregado João foi contratado para trabalhar como caixa de um supermercado. No ato de admissão, foi-lhe entregue o regulamento...",
+    "alternativas": "(A) está correta a aplicação da justa causa... \n(B) está incorreta a aplicação da justa causa... \n(C) está incorreta a aplicação da justa causa... \n(D) está incorreta a aplicação da justa causa, uma vez que o empregador praticou bis in idem...",
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "48",
+    "texto": "Joana foi contratada para trabalhar de segunda a sábado na residência do Sr. Demétrius, de 70 anos...",
+    "alternativas": "(A) A função de acompanhante é incompatível... \n(B) Joana faz jus ao reconhecimento de vínculo de emprego como empregada doméstica. \n(C) Joana não fará jus à estabilidade gestacional... \n(D) Joana não fará jus à estabilidade gestacional...",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "49",
+    "texto": "Com relação ao Direito Coletivo do Trabalho, assinale a alternativa correta.",
+    "alternativas": "(A) Acordo coletivo do trabalho é o acordo de caráter normativo... \n(B) Na greve em serviços ou atividades essenciais, ficam as entidades sindicais ou os trabalhadores, conforme o caso, obrigados a comunicar a decisão aos empregadores e aos usuários com antecedência mínima de 72 (setenta e duas) horas da paralisação. \n(C) As centrais sindicais, por força de lei... \n(D) O recolhimento da contribuição sindical...",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "50",
+    "texto": "Paulo, empregado de uma empresa siderúrgica, sofreu acidente do trabalho, entrando em gozo de auxílio-doença acidentário...",
+    "alternativas": "(A) Paulo tem direito a ser reintegrado... \n(B) Paulo tem direito a ser readmitido... \n(C) Paulo tem direito a ser readmitido... \n(D) Paulo tem direito a ser reintegrado, em razão da suspensão do contrato de trabalho...",
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "51",
+    "texto": "Com relação às provas no processo do trabalho, assinale a alternativa correta.",
+    "alternativas": "(A) As testemunhas devem ser necessariamente arroladas... \n(B) Cada uma das partes não pode indicar mais de três testemunhas... \n(C) Na hipótese de deferimento de prova técnica... \n(D) Nas causas sujeitas ao procedimento sumaríssimo, somente quando a prova do fato o exigir...",
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "52",
+    "texto": "Segundo a legislação e a jurisprudência sobre a ação rescisória no Processo do Trabalho, assinale a afirmativa correta.",
+    "alternativas": "(A) A decisão que extingue o processo sem resolução de mérito... \n(B) É ajuizada independente de depósito prévio... \n(C) Quando for de competência originária de Tribunal Regional... \n(D) A sentença de mérito proferida por prevaricação, concussão ou corrupção do juiz...",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "53",
+    "texto": "Com relação às despesas processuais na Justiça do Trabalho, assinale a afirmativa correta.",
+    "alternativas": "(A) As entidades fiscalizadoras do exercício profissional... \n(B) As custas devem ser pagas pelo vencido, após o trânsito em julgado... \n(C) O benefício da gratuidade de justiça não pode ser concedido de ofício... \n(D) A responsabilidade pelo pagamento dos honorários periciais...",
+    "gabarito": "B",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "54",
+    "texto": "No dia 23.05.2003, Paulo apresentou reclamação verbal perante o distribuidor do fórum trabalhista...",
+    "alternativas": "(A) Paulo não poderá ajuizar uma nova reclamação verbal... \n(B) Paulo poderá ajuizar uma nova reclamação verbal, uma vez que somente a segunda foi reduzida a termo... \n(C) Paulo não poderá ajuizar uma nova reclamação verbal... \n(D) Paulo poderá ajuizar nova reclamação trabalhista...",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "55",
+    "texto": "Assinale a alternativa que apresente requisitos intrínsecos genéricos de admissibilidade recursal",
+    "alternativas": "(A) Capacidade, legitimidade e interesse. \n(B) Preparo, interesse e representação processual. \n(C) Representação processual, preparo e tempestividade. \n(D) Legitimidade, tempestividade e preparo.",
+    "gabarito": "A",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "56",
+    "texto": "Com relação à execução trabalhista, assinale a afirmativa correta.",
+    "alternativas": "(A) A execução deve ser impulsionada pela parte interessada... \n(B) O termo de compromisso de ajustamento de conduta... \n(C) Conforme disposição expressa na Consolidação das Leis do Trabalho, considera-se inexigível o título judicial fundado em lei ou ato normativo declarados inconstitucionais... \n(D) Garantida a execução ou penhorados os bens...",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "57",
+    "texto": "Pedro ajuizou ação em face de seu empregador objetivando a satisfação dos pedidos de horas extraordinárias...",
+    "alternativas": "(A) ela está correta, uma vez que o referido artigo afirma... \n(B) ela está correta, uma vez que o preparo é requisito de admissibilidade... \n(C) ela está equivocada, pois em que pese haver a necessidade do preparo... \n(D) ela está equivocada, pois o recurso de agravo por instrumento...",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "58",
+    "texto": "A respeito do regime legal da prescrição no Código Penal, tendo por base ocorrência do fato na data de hoje, assinale a alternativa correta.",
+    "alternativas": "(A) A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação, regula-se pela pena aplicada... \n(B) A prescrição da pena de multa ocorrerá em 2 (dois) anos... \n(C) Se o réu citado por edital permanece revel... \n(D) São causas interruptivas do curso da prescrição...",
+    "gabarito": "A",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "59",
+    "texto": "Com relação ao concurso de delitos, é correto afirmar que:",
+    "alternativas": "(A) no concurso de crimes as penas de multa são aplicadas distintamente... \n(B) o concurso material ocorre quando o agente... \n(C) o concurso formal perfeito... \n(D) o Código Penal Brasileiro adotou o sistema de aplicação de pena do cúmulo material para os concursos material e formal imperfeito, e da exasperação para o concurso formal perfeito e crime continuado.",
+    "gabarito": "D",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "60",
+    "texto": "Paula Rita convenceu sua mãe adotiva, Maria Aparecida, de 50 anos de idade, a lhe outorgar um instrumento de mandato...",
+    "alternativas": "(A) Paula Rita praticou crime de estelionato em detrimento de Maria Aparecida e, pelo fato de ser sua filha adotiva, é isenta de pena. \n(B) Paula Rita praticou crime de furto mediante fraude... \n(C) Paula Rita praticou crime de estelionato... \n(D) Paula Rita praticou crime de furto mediante fraude...",
+    "gabarito": "A",
+    "disciplina": "Direito Penal"
+  },
+    {
+    "id_questoes": "61",
+    "texto": "Fundação Pública Federal contrata o técnico de informática Abelardo Fonseca para que opere o sistema informatizado...",
+    "alternativas": "(A) estelionato.\n(B) peculato.\n(C) concussão.\n(D) inserção de dados falsos em sistema de informações.",
+    "gabarito": "D",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "62",
+    "texto": "João da Silva, José da Silva e Maria da Silva são os acionistas controladores do Banco Silva’s e Família... Assinale a alternativa que indique o(s) crime(s) praticado(s) pelos acionistas controladores",
+    "alternativas": "(A) Crimes de falsidade ideológica, falsidade documental e estelionato qualificado.\n(B) Crime de gestão temerária de instituição financeira.\n(C) Crime de gestão fraudulenta de instituição financeira.\n(D) Crime de gestão temerária em concurso com crime de gestão fraudulenta de instituição financeira.",
+    "gabarito": "C",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "63",
+    "texto": "Assinale a alternativa que preencha corretamente as lacunas do texto: “para a ocorrência de__________, não basta a imputação falsa de crime...",
+    "alternativas": "(A) denunciação caluniosa, calúnia, denunciação caluniosa.\n(B) denunciação caluniosa, difamação, denunciação caluniosa.\n(C) comunicação falsa de crime ou de contravenção, calúnia...\n(D) comunicação falsa de crime ou de contravenção, difamação...",
+    "gabarito": "A",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "64",
+    "texto": "Arlete, em estado puerperal, manifesta a intenção de matar o próprio filho recém nascido... Diante do caso concreto, assinale a alternativa que indique a responsabilidade penal da mãe.",
+    "alternativas": "(A) Crime de homicídio, pois, o erro acidental não a isenta de reponsabilidade.\n(B) Crime de homicídio, pois, uma vez que o art. 123 do CP trata de matar o próprio filho...\n(C) Crime de infanticídio, pois houve erro quanto à pessoa.\n(D) Crime de infanticídio, pois houve erro essencial.",
+    "gabarito": "C",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "65",
+    "texto": "Relativamente à legislação sobre lavagem de capitais (Lei n. 9.613/98), assinale a alternativa correta.",
+    "alternativas": "(A) O crime de lavagem só ocorre quando os bens...\n(B) Não constitui lavagem de dinheiro, mas crime de descaminho...\n(C) O processo e julgamento dos crimes previstos na Lei n. 9613/98 dependem...\n(D) Pratica crime de lavagem de dinheiro quem utiliza, na atividade econômica ou financeira, bens, direitos ou valores que sabe serem provenientes de qualquer dos crimes antecedentes previstos na Lei n. 9613/98.",
+    "gabarito": "D",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "66",
+    "texto": "João foi denunciado pela prática do crime de furto (CP, art. 155)... O Tribunal, ao julgar apelo de João com fundamento exclusivo na insuficiência da prova para a condenação, deve:",
+    "alternativas": "(A) anular a sentença.\n(B) manter a condenação pela prática do crime de roubo.\n(C) abrir vista ao Ministério Público para aditamento da denúncia.\n(D) absolver o acusado.",
+    "gabarito": "D",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "67",
+    "texto": "Ao final da audiência de instrução e julgamento, o advogado do réu requer a oitiva de testemunha inicialmente não arrolada... Assinale a alternativa que apresente o que alegaria na apelação o advogado do réu...",
+    "alternativas": "(A) A redução da pena ou a fixação de um regime...\n(B) A anulação da sentença para que outra seja proferida em razão da violação do princípio da ampla defesa.\n(C) A reinquirição de todas as testemunhas em sede de apelação.\n(D) A anulação da sentença para que outra seja proferida...",
+    "gabarito": "B",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "68",
+    "texto": "Relativamente às regras sobre ação civil fixadas no Código de Processo Penal, assinale a alternativa correta.",
+    "alternativas": "(A) São fatos que impedem a propositura da ação civil...\n(B) Sobrevindo a sentença absolutória no juízo criminal...\n(C) Transitada em julgado a sentença penal condenatória...\n(D) Transitada em julgado a sentença penal condenatória, poderão promover-lhe a execução, no juízo cível, para o efeito da reparação do dano, o ofendido, seu representante legal ou seus herdeiros",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "69",
+    "texto": "Antônio Ribeiro foi denunciado pela prática de homicídio qualificado... A apelação é provida, sendo o réu submetido a novo Júri... A esse respeito, assinale a afirmativa correta.",
+    "alternativas": "(A) Não cabe nova apelação no caso concreto, em respeito ao princípio da soberania dos veredictos.\n(B) A decisão do juiz togado foi incorreta, pois violou o princípio do ne reformatio in pejus, cabendo apelação.\n(C) A decisão dos jurados foi incorreta, pois violou o princípio do tantum devolutum quantum appelatum\n(D) Não cabe apelação por falta de interesse jurídico...",
+    "gabarito": "B",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "70",
+    "texto": "Em uma briga de bar, Joaquim feriu Pedro com uma faca... No momento de prolatar a sentença, o juiz constatou que remanescia fundada dúvida sobre se Joaquim agrediu Pedro em situação de legítima defesa.",
+    "alternativas": "(A) O ônus de provar a situação de legítima defesa era da defesa... deve condenar o réu.\n(B) O ônus de provar a situação de legítima defesa era da acusação... deve condenar o réu.\n(C) O ônus de provar a situação de legítima defesa era da defesa. No caso, como o juiz ficou em dúvida sobre a ocorrência de legítima defesa, deve absolver o réu.\n(D) Permanecendo qualquer dúvida no espírito do juiz, ele está impedido de proferir a sentença...",
+    "gabarito": "C",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "71",
+    "texto": "João da Silva foi denunciado por homicídio qualificado por motivo fútil... Considerando tal narrativa, assinale a afirmativa correta.",
+    "alternativas": "(A) Nos debates orais perante os jurados, o promotor de justiça não poderá sustentar a qualificadora de motivo fútil, mas a defesa poderá alegar a tese de estrito cumprimento de dever legal.\n(B) Nos debates orais perante os jurados, o promotor de justiça poderá sustentar a qualificadora...\n(C) Nos debates orais perante os jurados, o promotor de justiça não poderá sustentar a qualificadora...\n(D) Nos debates orais perante os jurados, o promotor de justiça poderá sustentar a qualificadora...",
+    "gabarito": "A",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "72",
+    "texto": "Em processo sujeito ao rito ordinário, ao apresentar resposta escrita, o advogado requer a absolvição sumária... Ao final da audiência, o advogado requer a oitiva de duas testemunhas de defesa...",
+    "alternativas": "(A) O juiz deve deferir o pedido, pois a juntada do rol...\n(B) O juiz não deve deferir o pedido, pois o desmembramento...\n(C) O juiz só deve deferir a oitiva de testemunhas de defesa arroladas posteriormente ao momento da apresentação da resposta escrita se ficar demonstrado que a necessidade da oitiva se originou de circunstâncias ou fatos apurados na instrução.\n(D) O juiz deve deferir o pedido, pois apesar de a juntada do rol...",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "73",
+    "texto": "Considere a seguinte situação hipotética: lei federal fixou alíquotas aplicáveis ao ITR e estabeleceu que a alíquota relativa aos imóveis rurais situados no Rio de Janeiro seria de 5% e a relativa aos demais Estados do Sudeste de 7%. Tal enunciado normativo viola o princípio constitucional",
+    "alternativas": "(A) da uniformidade geográfica da tributação.\n(B) da legalidade tributária.\n(C) da liberdade de tráfego.\n(D) da não diferenciação tributária entre a procedência e o destino do produto.",
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "75",
+    "texto": "Semprônio dos Santos é proprietário de um sítio de recreio, local destinado ao lazer, na área de expansão urbana... Neste caso Semprônio deve pagar o seguinte imposto:",
+    "alternativas": "(A) o IPTU, por ser área de expansão urbana, dotada de melhoramentos.\n(B) o ITR, por ser sítio de recreio, não inserido em área urbana.\n(C) o IPTU, por ser sítio, explorado para fins empresariais.\n(D) o ITR, por não haver escola ou hospital próximos...",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "76",
+    "texto": "O emprego da analogia, em matéria tributária, resultará na",
+    "alternativas": "(A) majoração de tributo.\n(B) instituição de tributo.\n(C) exclusão do crédito tributário.\n(D) impossibilidade de exigência de tributo não previsto em lei.",
+    "gabarito": "D",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "77",
+    "texto": "Caso determinado município venha a atualizar o valor monetário da base de cálculo do IPTU, tal hipótese",
+    "alternativas": "(A) deve vir regulada por lei.\n(B) deve vir regulada por lei complementar.\n(C) enquadra-se como majoração de tributo.\n(D) poderá ser disciplinada mediante decreto.",
+    "gabarito": "D",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "78",
+    "texto": "Mauro Ricardo decidiu não pagar o imposto de renda do último ano... Quando Mauro recebeu a notificação, ele se dirigiu à Receita e confessou a infração... A partir do exposto acima, assinale a afirmativa correta.",
+    "alternativas": "(A) A confissão de Mauro tem o condão de excluir a sua responsabilidade...\n(B) Mauro somente se apresentou à Receita após a notificação, o que exclui qualquer benefício oriundo da denúncia espontânea, devendo ele recolher o tributo devido, a penalidade imposta e os juros de mora.\n(C) A incapacidade civil de Ana tem reflexo direto na sua capacidade tributária...\n(D) Caso Mauro tivesse procedido com mera culpa...",
+    "gabarito": "B",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "79",
+    "texto": "Pizza Aqui Ltda., empresa do ramo dos restaurantes, adquiriu o estabelecimento empresarial Pizza Já Ltda... Neste caso, é correto afirmar que:",
+    "alternativas": "(A) a Pizza Aqui responde solidariamente pelos tributos devidos pela Pizza Já, até a data do ato de aquisição do estabelecimento empresarial, se a Pizza Já cessar a exploração da atividade.\n(B) caso a Pizza Já prossiga na exploração da mesma atividade dentro de 6 (seis) meses contados da data de alienação, a Pizza Aqui responde subsidiariamente pelos tributos devidos pela Pizza Já Ltda. até a data do ato de aquisição do estabelecimento.\n(C) caso a Pizza Já mude de ramo de comércio dentro de 6 (seis) meses...\n(D) caso o negócio jurídico não fosse a aquisição...",
+    "gabarito": "B",
+    "disciplina": "Direito Empresarial"
+  },
+  {
+    "id_questoes": "80",
+    "texto": "Em Direito Tributário, cumpre à lei ordinária:",
+    "alternativas": "(A) estabelecer a cominação ou dispensa de penalidades para as ações ou omissões contrárias a seus dispositivos.\n(B) estabelecer a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos em matéria de ISS.\n(C) estabelecer normas gerais em matéria tributária...\n(D) estabelecer normas gerais em matéria tributária...",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "81",
+    "texto": "Delta Ltda. teve sua falência decretada em 11/01/2010... A Fazenda Pública Estadual tem créditos a receber... Com base no exposto acima, assinale a afirmativa correta.",
+    "alternativas": "(A) A Fazenda tem direito de preferência sobre o credor com garantia real, em virtude de seus privilégios.\n(B) A Fazenda não pode executar o bem, em função de ter havido a quebra da empresa, prevalecendo o crédito com garantia real.\n(C) A Fazenda tem direito de preferência uma vez que a dívida tributária é anterior à hipoteca.\n(D) A Fazenda respeitará a preferência do credor hipotecário, nos limites do valor do crédito garantido pela hipoteca.",
+    "gabarito": "D",
+    "disciplina": "Direito Empresarial"
+  },
+  {
+    "id_questoes": "82",
+    "texto": "A Cia. de Limpeza do Município de Trás os Montes, empresa pública municipal, vendeu um imóvel de sua titularidade... Neste caso, o novo proprietário",
+    "alternativas": "(A) não paga o imposto de transmissão de bens imóveis...\n(B) fica isento do imposto predial e territorial urbano...\n(C) paga o IPTU, mas não paga o ITBI...\n(D) fica obrigado a pagar todos os tributos que recaiam sobre o bem.",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "83",
+    "texto": "Fábio, advogado com mais de dez anos de efetiva atividade, obtém a indicação da OAB para concorrer pelo quinto constitucional à vaga reservada no âmbito de Tribunal de Justiça... Diante disso, à luz das normas estatutárias ocorrerá:",
+    "alternativas": "(A) o cancelamento da inscrição como advogado.\n(B) a suspensão até que cesse a incompatibilidade.\n(C) o licenciamento do profissional.\n(D) a passagem para a reserva do quadro de advogados.",
+    "gabarito": "A",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "84",
+    "texto": "Mauro, advogado com larga experiência profissional, resolve contratar com emissora de televisão, um novo programa... Consoante as normas aplicáveis, é correto afirmar que:",
+    "alternativas": "(A) a participação em programa televisivo está vedada aos advogados.\n(B) a publicidade, como narrada, é compatível com as normas do Código de Ética.\n(C) o advogado, no caso, deveria se limitar ao aspecto educacional e instrutivo da atividade profissional.\n(D) programas televisivos são franqueados aos advogados...",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "85",
+    "texto": "Renato, advogado em início de carreira, é contactado para defender os interesses de Rodrigo que está detido em cadeia pública... À luz das normas aplicáveis,",
+    "alternativas": "(A) o advogado, diante do seu dever de urbanidade, deve aguardar os atos cabíveis da autoridade policial.\n(B) o acesso aos autos, no caso, depende de procuração e de prévia autorização da autoridade policial.\n(C) no caso de réu preso, somente com autorização do juiz pode o advogado acessar os autos do inquérito policial.\n(D) o acesso aos autos de inquérito policial é direito do advogado, mesmo sem procuração ou conclusos à autoridade policial.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "86",
+    "texto": "Joel é experiente advogado, inscrito há muitos anos nos quadros da OAB. Em atividade profissional, comparece à sessão de tribunal... No concernente ao tema, à luz das normas estatutárias, o advogado",
+    "alternativas": "(A) deve aguardar o final do julgamento, com a proclamação do resultado, para apresentar questão de ordem.\n(B) poderá usar a palavra, pela ordem, para esclarecer questão de fato, que influencie o julgamento.\n(C) não possui instrumento hábil para interromper o julgamento.\n(D) após o final do julgamento deverá, mediante nova sustentação oral, indicar os erros cometidos.",
+    "gabarito": "B",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "87",
+    "texto": "Caio, advogado, inscrito na OAB-SP, após aprovação em concorrido Exame de Ordem... Estando no local, foi surpreendido por designação do Juiz Titular... Diante desse quadro",
+    "alternativas": "(A) o ato deveria ter sido adiado diante da exclusividade da atuação da Defensoria Pública\n(B) o advogado deveria ter recusado o encargo, mesmo sem justificativa plausível.\n(C) a recusa nesses casos poderá ocorrer, com justo motivo.\n(D) a recusa poderia ocorrer diante da ausência de sanção disciplinar.",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "88",
+    "texto": "Eduardo, advogado, é contratado para defender os interesses de Otávio, próspero fazendeiro... À luz das normas aplicáveis,",
+    "alternativas": "(A) os honorários sucumbenciais e os contratados são naturalmente excludentes, devendo o profissional optar por um deles.\n(B) os honorários contratuais devem ser sempre em valor fixo.\n(C) os honorários de sucumbência podem, ao alvedrio das partes, sofrer desconto dos honorários pactuados contratualmente.\n(D) os honorários sucumbenciais acrescidos dos honorários contratuais podem superar o benefício econômico obtido pelo cliente",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "89",
+    "texto": "Dentre as sanções cabíveis no processo disciplinar realizado pela OAB no concernente aos advogados estão a censura, a suspensão, a exclusão e a multa. Dentre as circunstâncias atenuantes para a aplicação do ato sancionatório, encontra-se, consoante o Estatuto,",
+    "alternativas": "(A) exercício assíduo e proficiente em mandato realizado na OAB.\n(B) ser reincidente em faltas da mesma natureza.\n(C) prestação de serviços à advocacia, mesmo irrelevantes.\n(D) ter sido o ato cometido contra outro integrante de carreira jurídica.",
+    "gabarito": "A",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "90",
+    "texto": "João Vítor e Ana Beatriz, ambos advogados, contraem núpcias... Ana Beatriz, revoltada com as acusações desfechadas por João Vítor, requer que a OAB promova sessão de desagravo... À luz das normas estatutárias,",
+    "alternativas": "(A) nenhum ato poderá ser realizado pela OAB, tendo em vista que as ofensas não ocorreram no exercício da profissão de advogado.\n(B) o ato de desagravo depende somente da qualidade de advogado do ofendido.\n(C) sendo o ofensor advogado, o desagravo é permitido pelo estatuto.\n(D) o desagravo poderá ocorrer privadamente.",
+    "gabarito": "A",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "91",
+    "texto": "Francisco, advogado, dirige-se, com seu cliente, para participar de audiência... A autoridade judicial encontrava-se presente no foro desde as nove horas da manhã... Diante do narrado, à luz das normas estatutárias",
+    "alternativas": "(A) qualquer atraso superior a uma hora justifica a retirada do recinto, pelo advogado.\n(B) o advogado deveria, no caso narrado, peticionar ao Magistrado e retirar-se do recinto.\n(C) o atraso que justifica a retirada do advogado está condicionado à ausência da autoridade judicial no evento.\n(D) meros atrasos da autoridade judicial não permitem a retirada do advogado do recinto.",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "92",
+    "texto": "Michel, Philippe e Lígia, bacharéis em Direito recém-formados... comprometem-se a empreender a atividade advocatícia de forma conjunta... No concernente ao tema, à luz das normas aplicáveis",
+    "alternativas": "(A) a sociedade de advogados é de natureza empresarial.\n(B) os advogados sócios da sociedade de advogados respondem limitadamente por danos causados aos clientes.\n(C) o registro da sociedade de advogados é realizado no Conselho Seccional da OAB onde a mesma mantiver sede.\n(D) não é possível associação com advogados, sem vínculo de emprego, para participação nos resultados.",
+    "gabarito": "C",
+    "disciplina": "Direito Empresarial"
+  },
+  {
+    "id_questoes": "93",
+    "texto": "Antônio e Joana casaram-se pelo regime da comunhão parcial de bens. Após o casamento, Antônio tornou-se sócio de sociedade simples... Assinale a alternativa que indique o que Joana pode fazer em relação às quotas de seu ex-cônjuge.",
+    "alternativas": "(A) Solicitar judicialmente a partilha das quotas de Antônio, ingressando na sociedade com 500 quotas ou 10% do capital social.\n(B) Requerer a dissolução parcial da sociedade de modo a receber o valor de metade das quotas de Antônio calculado com base em balanço especialmente levantado, tomando-se como base a data da separação.\n(C) Participar da divisão de lucros até que se liquide a sociedade, ainda que não possa nela ingressar.\n(D) Requerer a dissolução da sociedade e a liquidação dos bens sociais para que, apurados os haveres dos sócios, possa receber a parte que lhe pertence das quotas de seu ex-cônjuge.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "94",
+    "texto": "No que se refere à cessão de quotas de sociedade empresária limitada, assinale a alternativa correta.",
+    "alternativas": "(A) O cedente responde solidariamente com o cessionário perante a sociedade e terceiros pelas obrigações que tinha como sócio até 3 anos após averbado no registro competente a modificação do contrato social.\n(B) Na omissão do contrato, o sócio pode ceder sua quota, total ou parcialmente, a quem já seja sócio, independentemente da audiência dos demais.\n(C) A cessão de quotas, consubstanciada na respectiva alteração contratual, terá eficácia entre cedente e cessionário somente após a sua averbação perante o órgão competente.\n(D) Na omissão do contrato, o sócio pode ceder sua quota, total ou parcialmente, para terceiro, estranho ao quadro de sócios, somente se houver a concordância da unanimidade dos demais sócios.",
+    "gabarito": "B",
+    "disciplina": "Direito Empresarial"
+  },
+  {
+    "id_questoes": "95",
+    "texto": "Um contrato internacional entre um exportador brasileiro de laranjas e o comprador americano, previu que em caso de litígio fosse utilizada a arbitragem... O comprador entrou com uma ação no Brasil... O juiz decidiu:",
+    "alternativas": "(A) extinguir o feito sem julgamento de mérito, em face da cláusula arbitral.\n(B) deferir o pedido, na forma requerida.\n(C) indeferir o pedido porque o local do cumprimento do contrato é nos Estados Unidos.\n(D) deferir o pedido, em razão da competência concorrente da justiça brasileira.",
+    "gabarito": "A",
+    "disciplina": "Direito Internacional"
+  },
+  {
+    "id_questoes": "96",
+    "texto": "Jogador de futebol de um importante time espanhol e titular da seleção brasileira é filmado por um celular em uma casa noturna na Espanha, em avançado estado de embriaguez... O jogador ajuíza uma ação no Brasil contra o portal de vídeos, cuja sede é na Califórnia, Estados Unidos. O juiz brasileiro",
+    "alternativas": "(A) não é competente, porque o réu é pessoa jurídica estrangeira.\n(B) terá competência porque os danos à imagem ocorreram no Brasil.\n(C) deverá remeter o caso, por carta rogatória, à justiça norte americana\n(D) terá competência porque o autor tem nacionalidade brasileira.",
+    "gabarito": "B",
+    "disciplina": "Direito Internacional"
+  },
+  {
+    "id_questoes": "97",
+    "texto": "Tendo por substrato legal as alterações promovidas pela Lei n. 12.010, de 2009 no tocante à adoção, assinale a afirmativa correta.",
+    "alternativas": "(A) A morte dos adotantes não restabelece o poder familiar dos pais naturais.\n(B) Para viabilizar a celeridade no processo de adoção, a legislação específica – ECA – admite a representação do adotante por procuração.\n(C) Uma vez falecido o adotante no curso do procedimento de adoção e antes de prolatada a sentença, não poderá o juiz deferir a adoção, mesmo que tenha havido inequívoca manifestação de vontade do adotante.\n(D) Os cartórios de registros públicos de pessoas naturais deverão fornecer certidão a qualquer requisitante, independentemente, de justificativa de seu interesse, em que conste o vínculo da adoção constituído por sentença judicial.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "98",
+    "texto": "Dentre os direitos de toda criança ou todo adolescente, o ECA assegura o de ser criado e educado no seio de sua família e, excepcionalmente, a colocação em família substituta... Fundando-se em tal preceito, acerca da colocação em família substituta, é correto afirmar que:",
+    "alternativas": "(A) a colocação em família substituta far-se-á, exclusivamente, por meio da tutela ou da adoção.\n(B) a guarda somente obriga seu detentor à assistência material a criança ou adolescente.\n(C) o adotando não deve ter mais que 18 anos à data do pedido, salvo se já estiver sob a guarda ou tutela dos adotantes.\n(D) desde que comprovem seu estado civil de casados, somente os maiores de 21 anos podem adotar.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "99",
+    "texto": "Diante das disposições estabelecidas pela Lei n. 9.605/98 sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, assinale a alternativa correta.",
+    "alternativas": "(A) A desconsideração da pessoa jurídica somente será admitida se a pena restritiva de direitos se revelar inócua para os fins a que se destina.\n(B) A pena restritiva de direitos da pessoa jurídica, no que tange a proibição de contratar com o poder público, terá duração equivalente ao tempo de permanência dos efeitos negativos da conduta delituosa sobre o meio ambiente.\n(C) Constitui inovação da lei de crimes ambientais a excludente de antijuridicidade relativamente ao comércio não autorizado de animais da fauna silvestre voltado exclusivamente à subsistência da entidade familiar.\n(D) Os tipos penais ambientais, em regra, descrevem crimes de perigo abstrato, que se consumam com a própria criação do risco, efetivo ou presumido, independentemente de qualquer resultado danoso",
+    "gabarito": "D",
+    "disciplina": "Direito Ambiental"
+  },
+  {
+    "id_questoes": "100",
+    "texto": "Considerando a repartição de competências ambientais estabelecida na Constituição Federal, assinale a alternativa correta.",
+    "alternativas": "(A) Deverá ser editada lei ordinária com as normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios para o exercício da competência comum de defesa do meio ambiente\n(B) A exigência de apresentação, no processo de licenciamento ambiental, de certidão da Prefeitura Municipal sobre a conformidade do empreendimento com a legislação de uso e ocupação do solo decorre da competência do município para o planejamento e controle do uso, do parcelamento e da ocupação do solo urbano.\n(C) Legislar sobre proteção do meio ambiente e controle da poluição é de competência concorrente da União, dos Estados, do Distrito Federal e dos Municípios, com fundamento no artigo 24 da Constituição Federal.\n(D) A competência executiva em matéria ambiental não alcança a aplicação de sanções administrativas por infração à legislação de meio ambiente.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "101",
+    "texto": "Nas ações coletivas, o efeito da coisa julgada material será:",
+    "alternativas": "(A) Tratando-se de direitos individuais homogêneos, efeito erga omnes , se procedente, mas só aproveita aquele que se habilitou até o trânsito em julgado.\n(B) Tratando-se de direitos individuais homogêneos, julgados improcedentes, o consumidor, que não tiver conhecimento da ação, não poderá intentar ação individual.\n(C) Tratando-se de direitos difusos, no caso de improcedência por insuficiência de provas, não faz coisa julgada material, podendo, qualquer prejudicado, intentar nova ação com os mesmo fundamentos, valendo-se de novas provas.\n(D) Tratando-se de direitos coletivos, no caso de improcedência do pedido de nulidade de cláusula contratual, o efeito é ultra partes e impede a propositura de ação individual.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "102",
+    "texto": "Sobre o tratamento da publicidade no Código de Defesa do Consumidor, é correto afirmar que:",
+    "alternativas": "(A) a publicidade somente vincula o fornecedor se contiver informações falsas.\n(B) a publicidade que não informa sobre a origem do produto é considerada enganosa, mesmo quando não essencial para o produto.\n(C) o ônus da prova da veracidade da mensagem publicitária cabe ao veículo de comunicação.\n(D) é abusiva a publicidade que desrespeita valores ambientais.",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "103",
+    "texto": "O Congresso Nacional e suas respectivas Casas se reúnem anualmente para a atividade legislativa. Com relação ao sistema constitucional brasileiro, assinale a alternativa correta.",
+    "alternativas": "(A) Legislatura: o período compreendido entre 2 de fevereiro a 17 de julho e 1º de agosto a 22 de dezembro.\n(B) Sessão legislativa: os quatro anos equivalentes ao mandato dos parlamentares.\n(C) Sessão conjunta: a reunião da Câmara dos Deputados e do Senado Federal destinada, por exemplo, a conhecer do veto presidencial e sobre ele deliberar.\n(D) Sessão extraordinária: a que ocorre por convocação ou do Presidente do Senado Federal ou do Presidente da Câmara dos Deputados ou do Presidente da República e mesmo por requerimento da maioria dos membros de ambas as Casas para, excepcionalmente, inaugurar a sessão legislativa e eleger as respectivas mesas diretoras.",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "104",
+    "texto": "A obrigatoriedade ou necessidade de deliberação plenária dos tribunais, no sistema de controle de constitucionalidade brasileiro, significa que:",
+    "alternativas": "(A) somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.\n(B) a parte legitimamente interessada pode recorrer ao respectivo Tribunal Pleno das decisões dos órgãos fracionários dos Tribunais Federais ou Estaduais que, em decisão definitiva, tenha declarado a inconstitucionalidade de lei ou ato normativo.\n(C) somente nas sessões plenárias de julgamento dos Tribunais Superiores é que a matéria relativa a eventual inconstitucionalidade da lei ou ato normativo pode ser decidida.\n(D) a competência do Supremo Tribunal Federal para processar e julgar toda e qualquer ação que pretenda invalidar lei ou ato normativo do Poder Público pode ser delegada a qualquer tribunal, condicionada a delegação a que a decisão seja proferida por este órgão jurisdicional delegado em sessão plenária.",
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "105",
+    "texto": "A respeito do Conselho Nacional de Justiça é correto afirmar que:",
+    "alternativas": "(A) é órgão integrante do Poder Judiciário com competência administrativa e jurisdicional.\n(B) pode rever, de ofício ou mediante provocação, os processos disciplinares de juízes e membros de Tribunais julgados há menos de um ano.\n(C) seus atos sujeitam-se ao controle do Supremo Tribunal Federal e do Superior Tribunal de Justiça.\n(D) a presidência é exercida pelo Ministro do Supremo Tribunal Federal que o integra e que exerce o direito de voto em todas as deliberações submetidas àquele órgão.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "106",
+    "texto": "Em relação aos Ministros de Estado, a Constituição do Brasil estabelece que:",
+    "alternativas": "(A) como delegatários do Presidente da República, podem, desde que autorizados, extinguir cargos públicos.\n(B) podem expedir instruções para a execução de leis e editarem medidas provisórias.\n(C) somente os brasileiros natos poderão exercer a função.\n(D) respondem, qualquer que seja a infração cometida, perante o Superior Tribunal de Justiça.",
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "107",
+    "texto": "Considerando que nos termos dispostos no art. 133 da Constituição do Brasil, o advogado é indispensável à administração da justiça, sendo até mesmo inviolável por seus atos e manifestações no exercício da profissão, é correto afirmar que:",
+    "alternativas": "(A) a imunidade profissional não pode sofrer restrições de qualquer natureza.\n(B) nenhuma demanda judicial, qualquer que seja o órgão do Poder Judiciário pelo qual tramite, independentemente de sua natureza, objeto e partes envolvidas, pode receber a prestação jurisdicional se não houver atuação de advogado.\n(C) a inviolabilidade do escritório ou local de trabalho é assegurada nos termos da lei, não sendo vedadas, contudo, a busca e a apreensão judicialmente decretadas, por decisão motivada, desde que realizada na presença de representante da OAB, salvo se esta, devidamente notificada ou solicitada, não proceder à indicação.\n(D) a prisão do advogado, por motivo de exercício da profissão, somente poderá ocorrer em flagrante, mesmo em caso de crime afiançável.",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "108",
+    "texto": "Sabe-se a polêmica ainda existente na doutrina constitucionalista pátria no que se refere à eventual hierarquia da Lei Complementar sobre a Lei Ordinária... A partir do fragmento acima, assinale a afirmativa incorreta.",
+    "alternativas": "(A) A Lei Complementar exige aprovação por maioria absoluta, enquanto a lei ordinária é aprovada por maioria simples dos membros presentes à sessão, desde que presente a maioria absoluta dos membros de cada Casa ou de suas Comissões.\n(B) As matérias que devem ser regradas por Lei Complementar encontram-se taxativamente indicadas no texto constitucional e, desde que não seja assunto específico de normatização por decreto legislativo ou resolução, o regramento de todo o resíduo competirá à lei ordinária.\n(C) As matérias reservadas à Lei Complementar não serão objeto de delegação do Congresso ao Presidente da República.\n(D) A discussão e votação dos projetos de lei ordinária devem, obrigatoriamente, ter início na Câmara dos Deputados.",
+    "gabarito": "D",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "109",
+    "texto": "Em relação à inovação da ordem constitucional que instituiu a nominada Súmula Vinculante, é correto afirmar que:",
+    "alternativas": "(A) somente os Tribunais Superiores podem editá-la.\n(B) podem ser canceladas, mas vedada a mera revisão.\n(C) a proposta para edição da Súmula pode ser provocada pelos legitimados para a propositura da ação direta de inconstitucionalidade.\n(D) desde que haja reiteradas decisões sobre matéria constitucional, o Supremo Tribunal Federal poderá, de ofício ou por provocação, aprovar a Súmula mediante decisão da maioria absoluta de seus membros.",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "110",
+    "texto": "Um determinado Estado-membro editou lei estabelecendo disciplina uniforme para a data de vencimento das mensalidades das instituições de ensino sediadas no seu território. Examinada a questão à luz da partilha de competência entre os entes federativos, é correto afirmar que:",
+    "alternativas": "(A) mensalidade escolar versa sobre direito obrigacional, portanto, de natureza contratual, logo cabe à União legislar sobre o assunto.\n(B) a matéria legislada tem por objeto prestação de serviço educacional, devendo ser considerada como de interesse típico municipal.\n(C) por versar o conteúdo da lei sobre educação, a competência do Estado-membro é concorrente com a da União.\n(D) somente competirá aos Estados-membros legislar sobre o assunto quando se tratar de mensalidades cobradas por instituições particulares de Ensino Médio.",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "111",
+    "texto": "Sobre o instrumento jurídico denominado Medida Provisória que não é lei, mas tem força de lei, assinale a afirmativa correta.",
+    "alternativas": "(A) A sua eficácia dura sessenta dias contados da publicação, podendo a medida ser prorrogada apenas duas vezes, ambas por igual período.\n(B) Se a Medida Provisória perder eficácia por decurso de prazo ou, em caráter expresso, for rejeitada pelo Congresso Nacional, vedada será sua reedição na mesma sessão legislativa.\n(C) A não apreciação pela Câmara dos Deputados e, após, pelo Senado Federal, no prazo de 45 dias contados da publicação, tem como consequência apenas o sobrestamento da deliberação dos projetos de emenda à Constituição.\n(D) A edição de Medida Provisória torna prejudicado o projeto de lei que disciplina o mesmo assunto e que, a par de já aprovado pelo Congresso Nacional, está pendente de sanção ou veto do Presidente da República.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "112",
+    "texto": "Declarando o Supremo Tribunal Federal, incidentalmente, a inconstitucionalidade de lei ou ato normativo federal em face da Constituição do Brasil, caberá",
+    "alternativas": "(A) ao Procurador-Geral da República, como chefe do Ministério Público da União, expedir atos para o cumprimento da decisão pelos membros do Ministério Público Federal e dos Estados.\n(B) ao Presidente da República editar decreto para tornar inválida a lei no âmbito da administração pública.\n(C) ao Senado Federal suspender a execução da lei, total ou parcialmente, conforme o caso, desde que a decisão do Supremo Tribunal Federal seja definitiva.\n(D) ao Advogado-Geral da União interpor o recurso cabível para impedir que a União seja compelida a cumprir a referida decisão.",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "113",
+    "texto": "A doutrina costuma afirmar que certas prerrogativas postas à Administração encerram verdadeiros poderes, que são irrenunciáveis e devem ser exercidos sempre que o interesse público clamar. Por tal razão são chamados poder-dever. A esse respeito é correto afirmar que:",
+    "alternativas": "(A) o poder regulamentar é amplo, e permite, sem controvérsias, a edição de regulamentos autônomos e executórios.\n(B) o poder disciplinar importa à administração o dever de apurar infrações e aplicar penalidades, mesmo não havendo legislação prévia.\n(C) o poder de polícia se coloca discricionário, conferindo ao administrador ilimitada margem de opções quanto à sanção a ser, eventualmente, aplicada.\n(D) o poder hierárquico é inerente à ideia de verticalização administrativa, e revela as possibilidades de controlar atividades, delegar competência, avocar competências delegáveis e invalidar atos, dentre outros.",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "114",
+    "texto": "Em determinado procedimento administrativo disciplinar, a Administração federal impôs, ao servidor, a pena de advertência... Com base no fragmento acima, é correto afirmar que a Administração Federal",
+    "alternativas": "(A) agiu em desrespeito aos princípios da eficiência e da instrumentalidade, autorizativos da reforma em prejuízo do recorrente, desde que não imponha pena grave.\n(B) agiu em respeito aos princípios da legalidade e autotutela, autorizativos da reforma em prejuízo do recorrente.\n(C) não observou o princípio da dignidade da pessoa humana, trazendo equivocada reforma em prejuízo do recorrente.\n(D) não observou o princípio do devido processo legal, trazendo equivocada reforma em prejuízo do recorrente.",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "115",
+    "texto": "Acerca do tombamento, como uma das formas de o Estado intervir na propriedade privada, os proprietários passam a ter obrigações negativas... Assinale-a.",
+    "alternativas": "(A) Os proprietários são obrigados a colocar os seus imóveis tombados à disposição da Administração Pública para que possam ser utilizados como repartições públicas, quando da necessidade imperiosa de utilização, a fim de suprir a prestação de serviços pelo Estado de forma eficiente.\n(B) Os proprietários são obrigados a suportar a fiscalização dos órgãos administrativos competentes.\n(C) Os proprietários não podem destruir, demolir ou mutilar o bem imóvel e somente poderão restaurá-lo, repará-lo ou pintá-lo após a obtenção de autorização especial do órgão administrativo competente.\n(D) Os proprietários não podem alienar os bens, ressalvada a possibilidade de transferência para uma entidade pública.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "116",
+    "texto": "O poder de polícia, conferindo a possibilidade de o Estado limitar o exercício da liberdade ou das faculdades de proprietário, em prol do interesse público",
+    "alternativas": "(A) gera a possibilidade de cobrança, como contrapartida, de preço público.\n(B) se instrumentaliza sempre por meio de alvará de autorização.\n(C) afasta a razoabilidade, para atingir os seus objetivos maiores, em prol da predominância do interesse público.\n(D) deve ser exercido nos limites da lei, gerando a possibilidade de cobrança de taxa.",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "117",
+    "texto": "No Direito Público brasileiro, o grau de autonomia das Agências Reguladoras é definido por uma independência",
+    "alternativas": "(A) administrativa total e absoluta, uma vez que a Constituição da República de 1988 não lhes exige qualquer liame, submissão ou controle administrativo dos órgãos de cúpula do Poder Executivo.\n(B) administrativa mitigada, uma vez que a própria lei que cria cada uma das Agências Reguladoras define e regulamenta as relações de submissão e controle, fundado no poder de supervisão dos Ministérios a que cada uma se encontra vinculada, em razão da matéria, e na superintendência atribuída ao chefe do Poder Executivo, como chefe superior da Administração Pública.\n(C) legislativa total e absoluta, visto que gozam de poder normativo regulamentar, não se sujeitando assim às leis emanadas pelos respectivos Poderes legislativos de cada ente da federação brasileira.\n(D) política decisória, pois não estão obrigadas a seguir as decisões de políticas públicas adotadas pelos Poderes do Estado (executivo e legislativo).",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "118",
+    "texto": "Nas hipóteses de desapropriação, em regra geral, os requisitos constitucionais a serem observados pela Administração Pública são os seguintes:",
+    "alternativas": "(A) comprovação da necessidade ou utilidade pública ou de interesse social; pagamento de indenização prévia ao ato de imissão na posse pelo Poder Público, e que seja justa e em dinheiro; e observância de ato administrativo, sem contraditório por parte do proprietário.\n(B) comprovação da necessidade ou utilidade pública ou de interesse social; pagamento de indenização prévia ao ato de imissão na posse pelo Poder Público, e que seja justa e em dinheiro; e observância de procedimento administrativo, com respeito ao contraditório e ampla defesa por parte do proprietário.\n(C) comprovação da necessidade ou utilidade pública ou de interesse social; pagamento de indenização prévia ao ato de imissão na posse pelo Poder Público, e que seja justa e em títulos da dívida pública ou quaisquer outros títulos públicos, negociáveis no mercado financeiro; e observância de procedimento administrativo, com respeito ao contraditório e ampla defesa por parte do proprietário.\n(D) comprovação da necessidade ou utilidade pública ou de interesse social; pagamento de indenização, posteriormente ao ato de imissão na posse pelo Poder Público, e que seja justa e em dinheiro; e observância de procedimento administrativo, com respeito ao contraditório e ampla defesa por parte do proprietário.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "119",
+    "texto": "Uma das características dos contratos administrativos é a “instabilidade” quanto ao seu objeto que decorre",
+    "alternativas": "(A) do poder conferido à Administração Pública de alterar, unilateralmente, algumas cláusulas do contrato, no curso de sua execução, na forma do artigo 58, inciso I da Lei n. 8.666/93, a fim de adequar o objeto do contrato às finalidades de interesse público, respeitados os direitos do contratado.\n(B) da possibilidade do contratado (particular) alterar, unilateralmente, a qualquer tempo, algumas cláusulas do contrato, no curso de sua execução, de forma a atender aos seus próprios interesses em face das prerrogativas da Administração Pública.\n(C) do poder conferido à Administração Pública de alterar, unilateralmente, algumas cláusulas do contrato, no curso de sua execução, na forma do artigo 58, inciso I da Lei n. 8.666/93, a fim de adequar o objeto do contrato aos interesses do contratado (particular) em face das prerrogativas da Administração Pública.\n(D) de não haver qualquer possibilidade de alteração do objeto do contrato administrativo, quer pela Administração Pública, quer pelo contratado (particular), tendo em vista o princípio da vinculação ao edital licitatório, do qual o contrato e seu objeto fazem parte integrante; e o princípio da juridicidade, do qual aquele primeiro decorre.",
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "120",
+    "texto": "Determinada Administração Pública realiza concurso para preenchimento de cargos de detetive... A partir do fragmento acima, assinale a alternativa correta.",
+    "alternativas": "(A) Os referidos agentes têm razão, pois investidos irregularmente, estão exercendo as suas atividades há mais de 4 (quatro) anos, a consolidar a situação.\n(B) É inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente foi investido.\n(C) Não têm ainda o direito, pois dependem do transcurso do prazo de 15 (quinze) anos para que possam ser tidos como delegados, por usucapião.\n(D) É inconstitucional esta modalidade de provimento do cargo, pois afronta o princípio do concurso público, porém não podem ter alterado os ganhos vencimentais, sedimentado pelos anos, pelo princípio da irredutibilidade.",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "121",
+    "texto": "No âmbito do Poder discricionário da Administração Pública, não se admite que o agente público administrativo exerça o Poder discricionário",
+    "alternativas": "(A) quando estiver diante de conceitos legais e jurídicos parcialmente indeterminados...\n(B) quando estiver diante de conceitos legais e jurídicos técnico-científicos...\n(C) quando estiver diante de conceitos valorativos...\n(D) em situações em que a redação da Lei se encontra insatisfatória ou ultrapassada.",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "122",
+    "texto": "Uma determinada empresa concessionária transfere o seu controle acionário para uma outra empresa privada, sem notificar, previamente, o Poder concedente... Assinale a alternativa que indique a medida que o Poder concedente poderá tomar...",
+    "alternativas": "(A) Poderá o Poder concedente declarar a caducidade da concessão, tendo em vista o caráter intuitu personae do contrato de concessão.\n(B) Poderá retomar o serviço, por motivo de interesse público...\n(C) Poderá o Poder concedente anular o contrato de concessão...\n(D) Nada poderá fazer o Poder concedente...",
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "123",
+    "texto": "A respeito das diferenças e semelhanças entre prescrição e decadência, no Código Civil, é correto afirmar que:",
+    "alternativas": "(A) a prescrição acarreta a extinção do direito potestativo, enquanto a decadência gera a extinção do direito subjetivo.\n(B) os prazos prescricionais podem ser suspensos e interrompidos, enquanto os prazos decadenciais legais não se suspendem ou interrompem...\n(C) não se pode renunciar à decadência legal nem à prescrição...\n(D) a prescrição é exceção que deve ser alegada...",
+    "gabarito": "B",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "124",
+    "texto": "Com relação ao regime da solidariedade passiva, é correto afirmar que:",
+    "alternativas": "(A) cada herdeiro pode ser demandado pela dívida toda do devedor solidário falecido.\n(B) com a perda do objeto por culpa de um dos devedores solidários, a solidariedade subsiste no pagamento do equivalente pecuniário, mas pelas perdas e danos somente poderá ser demandado o culpado.\n(C) se houver atraso injustificado no cumprimento da obrigação por culpa de um dos devedores solidários...\n(D) as exceções podem ser aproveitadas por qualquer dos devedores solidários...",
+    "gabarito": "B",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "125",
+    "texto": "Durante dez anos, empregados de uma fabricante de extrato de tomate distribuíram, gratuitamente, sementes de tomate entre agricultores... O tribunal competente entendeu que havia responsabilidade pré-contratual da fabricante. A responsabilidade pré-contratual é aquela que:",
+    "alternativas": "(A) deriva da violação à boa-fé objetiva na fase das negociações preliminares à formação do contrato.\n(B) deriva da ruptura de um pré-contrato, também chamado contrato preliminar.\n(C) surgiu, como instituto jurídico, em momento histórico anterior à responsabilidade contratual.\n(D) segue o destino da responsabilidade contratual, como o acessório segue o principal.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "126",
+    "texto": "Em 2004, Joaquim, que não tinha herdeiros necessários, lavrou um testamento contemplando como sua herdeira universal Ana... Assinale a alternativa que indique a quem caberá a herança de Joaquim.",
+    "alternativas": "(A) Rubens.\n(B) Catarina.\n(C) Ana.\n(D) A herança será vacante.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "127",
+    "texto": "Joana prometeu doar um imóvel para Pedro, seu afilhado, em contrato escrito e assinado pelas partes. Antes da tradição, Joana faleceu... Pedro ajuizou ação exigindo a entrega do imóvel... Nesse caso:",
+    "alternativas": "(A) Pedro tem direito à entrega do imóvel, pois a doação se aperfeiçoa com a aceitação.\n(B) Pedro não tem direito à entrega, pois a tradição é requisito essencial da doação.\n(C) a doação não se aperfeiçoou, mas Pedro tem direito à indenização equivalente.\n(D) Pedro não tem direito ao imóvel nem à indenização, pois a doação não se consumou.",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "128",
+    "texto": "Sobre o constituto possessório, assinale a alternativa correta.",
+    "alternativas": "(A) Trata-se de modo originário de aquisição da propriedade.\n(B) Trata-se de modo originário de aquisição da posse.\n(C) Representa uma tradição ficta.\n(D) É imprescindível para que se opere a transferência da posse aos herdeiros na sucessão universal.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "129",
+    "texto": "Passando por dificuldades financeiras, Alexandre instituiu uma hipoteca sobre imóvel de sua propriedade... Consultando seu advogado, Alexandre ouviu dele que não poderia alienar o imóvel... A opinião do advogado de Alexandre",
+    "alternativas": "(A) está incorreta, porque a hipoteca instituída não produz efeitos, pois, na hipótese, o direito real em garantia a ser instituído deveria ser o penhor.\n(B) está incorreta, porque Alexandre está livre para alienar o imóvel, pois a cláusula que proíbe o proprietário de alienar o bem hipotecado é nula.\n(C) está incorreta, uma vez que a hipoteca é nula...\n(D) está correta, porque em virtude da proibição contratual...",
+    "gabarito": "B",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "130",
+    "texto": "Jane e Carlos constituíram uma união estável em julho de 2003 e não celebraram contrato... Carlos procura um advogado, indagando se tem direito a partilhar o imóvel adquirido por Jane na Barra da Tijuca em maio de 2005. Assinale a alternativa correta.",
+    "alternativas": "(A) Por ser bem adquirido a título oneroso na vigência da união estável, Carlos tem direito à partilha...\n(B) Carlos não tem direito a partilhar... porque aplica-se o regime da separação total.\n(C) Carlos não tem direito a partilhar... porque, embora seja comunhão parcial, o bem foi adquirido por doação e substituído por outro.\n(D) Carlos tem direito a partilhar o imóvel adquirido por Jane...",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "131",
+    "texto": "Por meio de uma promessa de compra e venda, celebrada por instrumento particular registrada... Juvenal foi residir no imóvel... e deparou-se com a recusa do promitente-vendedor em outorgar-lhe a escritura. Diante do impasse, Juvenal poderá",
+    "alternativas": "(A) requerer ao juiz a adjudicação do imóvel, mesmo com contrato particular.\n(B) usucapir o imóvel, já que não cabe adjudicação compulsória.\n(C) desistir e pedir o dinheiro de volta.\n(D) exigir a substituição do imóvel promovido...",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "132",
+    "texto": "João prometeu transferir a propriedade de uma coisa certa, mas antes disso, sem culpa sua, o bem foi deteriorado. Segundo o Código Civil:",
+    "alternativas": "(A) a obrigação fica resolvida, com devolução de valores.\n(B) a obrigação subsiste, com entrega no estado em que se encontra.\n(C) a obrigação subsiste, com abatimento proporcional.\n(D) cabe ao credor escolher entre resolver ou receber com abatimento.",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "133",
+    "texto": "Assinale a alternativa que contemple exclusivamente obrigação propter rem:",
+    "alternativas": "(A) indenização da aluvião e da avulsão.\n(B) hipoteca e cotas condominiais.\n(C) dever de desforço e cotas condominiais.\n(D) indenização por benfeitorias de boa-fé.",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "134",
+    "texto": "A capacidade é um dos pressupostos processuais. Caso o juiz verifique que uma das partes é incapaz... providência correta:",
+    "alternativas": "(A) Se for o autor: multa por má-fé.\n(B) Se for o autor: julgamento antecipado.\n(C) Se for o réu: deve ser reputado revel.\n(D) Se for o réu: julga-se contra ele.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "135",
+    "texto": "A incompetência do juízo pode ser absoluta ou relativa. Assinale a correta:",
+    "alternativas": "(A) A relativa pode ser alegada a qualquer tempo.\n(B) A relativa pode ser conhecida de ofício.\n(C) A absoluta gera nulidade dos atos.\n(D) A absoluta é alegada em preliminar ou por petição.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "136",
+    "texto": "Sobre execução por quantia certa contra devedor solvente:",
+    "alternativas": "(A) executado é citado para embargar em 3 dias.\n(B) credor só indica bens após manifestação do executado.\n(C) juiz pode intimar o executado para indicar bens a qualquer tempo.\n(D) honorários só ao final.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "137",
+    "texto": "Sobre medidas cautelares:",
+    "alternativas": "(A) juiz sempre defere sem ouvir o requerido.\n(B) só há cautelar incidental.\n(C) após recurso, é vedado requerer cautelar.\n(D) cautelar mantém eficácia mesmo com suspensão do processo.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "138",
+    "texto": "Segundo a Lei 9.099/95:",
+    "alternativas": "(A) Não cabe intervenção de terceiros nem assistência.\n(B) É vedado o litisconsórcio.\n(C) Microempresas podem reconvir.\n(D) Pedido genérico admite sentença ilíquida.",
+    "gabarito": "A",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "139",
+    "texto": "Sobre Mandado de Segurança Coletivo:",
+    "alternativas": "(A) Qualquer cidadão pode impetrar.\n(B) Coisa julgada limita-se aos membros substituídos.\n(C) Serve para direitos difusos.\n(D) Induz litispendência às ações individuais.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "140",
+    "texto": "Acerca da revelia, é correto afirmar:",
+    "alternativas": "(A) Ocorre pela falta de exceção ou reconvenção.\n(B) Produz efeitos mesmo em direitos indisponíveis.\n(C) Prazos correm sem intimação, mesmo com advogado constituído.\n(D) O revel pode intervir em qualquer fase, recebendo o processo no estado em que se encontra.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "141",
+    "texto": "Advogado contradita testemunha por amizade íntima. Ele deve:",
+    "alternativas": "(A) interromper a audiência.\n(B) contraditar; pode ser ouvida como informante se fundamentado.\n(C) contraditar; juiz é obrigado a dispensá-la.\n(D) contraditar; ouvir depois da audiência.",
+    "gabarito": "B",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "142",
+    "texto": "Curatela dos interditos:",
+    "alternativas": "(A) Parente próximo pode requerer.\n(B) Sentença faz coisa julgada material.\n(C) Prova pericial é facultativa.\n(D) MP não tem legitimidade.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "143",
+    "texto": "Existindo cláusula compromissória cheia em contrato empresarial, o advogado deve:",
+    "alternativas": "(A) requerer audiência.\n(B) contestar só o mérito.\n(C) alegar convenção de arbitragem em preliminar e pedir extinção.\n(D) pedir julgamento antecipado.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "144",
+    "texto": "Sobre banco de horas:",
+    "alternativas": "(A) Pode ser verbal.\n(B) Não admite jornada superior a 10h.\n(C) Pode compensar após rescisão.\n(D) Excesso não pode ultrapassar as jornadas semanais do semestre.",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "145",
+    "texto": "Sobre nulidades do contrato de trabalho:",
+    "alternativas": "(A) Trabalho ilícito: paga só salário.\n(B) Trabalho noturno/perigoso/insalubre do menor de 18 é proibido.\n(C) Trabalho de menor de 16 (não aprendiz) não gera efeitos.\n(D) Falta de anotação invalida o contrato.",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "146",
+    "texto": "Direito Coletivo do Trabalho:",
+    "alternativas": "(A) Acordo coletivo é feito entre sindicatos econômicos e profissionais.\n(B) Greve essencial exige aviso de 72h a empregadores e usuários.\n(C) Centrais sindicais podem celebrar acordos e convenções.\n(D) Contribuição sindical só exige de sindicalizados.",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "147",
+    "texto": "Caso João e uso de uniforme:",
+    "alternativas": "(A) Justa causa correta.\n(B) Insubsordinação, não indisciplina.\n(C) Mau procedimento.\n(D) Bis in idem.",
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "148",
+    "texto": "Sobre férias:",
+    "alternativas": "(A) Pagas até 30 dias antes.\n(B) Podem ser gozadas em 2 períodos, salvo gestantes e menores.\n(C) Demissionário antes de 12 meses tem férias proporcionais.\n(D) Pode converter tudo em abono.",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "149",
+    "texto": "Caso Marcos (banco):",
+    "alternativas": "(A) Pedido inepto.\n(B) Improcedente por jus variandi.\n(C) Procedente se provar que fazia funções de tesoureiro.\n(D) Procedente só após decisão.",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "150",
+    "texto": "Joana — acompanhante, gravidez, doméstica:",
+    "alternativas": "(A) Função incompatível.\n(B) Há vínculo de emprego doméstico.\n(C) Não tem estabilidade gestacional.\n(D) Contrato de 3 meses é experiência.",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "151",
+    "texto": "Paulo — acidente, auxílio-doença, dispensado:",
+    "alternativas": "(A) Reintegração por garantia provisória.\n(B) Readmissão.\n(C) Readmissão por interrupção.\n(D) Reintegração por suspensão do contrato.",
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "152",
+    "texto": "Provas no processo do trabalho:",
+    "alternativas": "(A) Testemunhas devem ser arroladas dentro do prazo.\n(B) Máximo 3 testemunhas, exceto falta grave.\n(C) Não pode assistente técnico.\n(D) No sumaríssimo, perícia só quando necessária, juiz fixa prazo e nomeia perito.",
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "153",
+    "texto": "Despesas processuais na JT:",
+    "alternativas": "(A) Entidades fiscalizadoras são isentas.\n(B) Custas devem ser pagas pelo vencido e recolhidas no prazo recursal.\n(C) Gratuidade não pode ser concedida de ofício.\n(D) Perícia é paga pela parte sucumbente mesmo beneficiária.",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "154",
+    "texto": "Execução trabalhista:",
+    "alternativas": "(A) Execução deve ser impulsionada pela parte.\n(B) TAC só vale com homologação.\n(C) Título judicial baseado em lei declarada inconstitucional é inexigível.\n(D) Embargos em 10 dias.",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "155",
+    "texto": "Requisitos intrínsecos de admissibilidade recursal:",
+    "alternativas": "(A) Capacidade, legitimidade e interesse.\n(B) Preparo, interesse, representação.\n(C) Representação, preparo, tempestividade.\n(D) Legitimidade, tempestividade, preparo.",
+    "gabarito": "A",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "156",
+    "texto": "Agravo por instrumento sem preparo:",
+    "alternativas": "(A) Correto — exige depósito de 50%.\n(B) Correto — preparo é obrigatório.\n(C) Errado — autor recorrente não precisa depósito.\n(D) Errado — agravo não exige preparo.",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "157",
+    "texto": "Ação rescisória:",
+    "alternativas": "(A) Extinção sem mérito admite rescisória.\n(B) Independe de depósito.\n(C) Cabe revista.\n(D) Sentença por corrupção admite rescisória.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "158",
+    "texto": "Paulo — reclamação verbal, não comparece:",
+    "alternativas": "(A) Não pode nova reclamação.\n(B) Pode nova verbal — só a segunda foi reduzida a termo.\n(C) Há perempção.\n(D) Só pode por escrito.",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "159",
+    "texto": "Concurso de crimes:",
+    "alternativas": "(A) Multa distinta, mas reduzida.\n(B) Concurso material: ações dependentes.\n(C) Concurso formal perfeito: penas somadas.\n(D) CP adota cúmulo para material e formal imperfeito; exasperação para formal perfeito e crime continuado.",
+    "gabarito": "D",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "160",
+    "texto": "Estelionato ou furto mediante fraude — filha adotiva:",
+    "alternativas": "(A) Estelionato e isenta de pena.\n(B) Furto com fraude e isenta.\n(C) Estelionato, sem isenção.\n(D) Furto com fraude, sem isenção.",
+    "gabarito": "A",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "161",
+    "texto": "Prescrição penal:",
+    "alternativas": "(A) Regula-se pela pena aplicada e nunca inicia antes da denúncia.\n(B) Multa prescreve em 2 anos.\n(C) Réu citado por edital — prazo pelo dobro.\n(D) Interrupção ocorre só com sentença condenatória.",
+    "gabarito": "A",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "162",
+    "texto": "Complete as lacunas: denunciação caluniosa x calúnia:",
+    "alternativas": "(A) denunciação caluniosa, calúnia, denunciação caluniosa.\n(B) denunciação caluniosa, difamação, denunciação caluniosa.\n(C) comunicação falsa, calúnia, comunicação falsa.\n(D) comunicação falsa, difamação, comunicação falsa.",
+    "gabarito": "A",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "163",
+    "texto": "Arlete mata recém-nascido errado em estado puerperal:",
+    "alternativas": "(A) Homicídio — erro acidental.\n(B) Homicídio — falta elemento do tipo.\n(C) Infanticídio — erro quanto à pessoa.\n(D) Infanticídio — erro essencial.",
+    "gabarito": "C",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "164",
+    "texto": "Lavagem de capitais:",
+    "alternativas": "(A) Só ocorre após todas as etapas.\n(B) Subfaturamento é descaminho.\n(C) Depende do julgamento do crime antecedente.\n(D) Lavagem: usar bens que sabe serem de origem ilícita.",
+    "gabarito": "D",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "165",
+    "texto": "Abelardo altera folha de pagamento para inserir seu nome:",
+    "alternativas": "(A) Estelionato.\n(B) Peculato.\n(C) Concussão.\n(D) Inserção de dados falsos em sistema.",
+    "gabarito": "D",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "166",
+    "texto": "Acionistas controladores fraudam banco:",
+    "alternativas": "(A) Falsidade e estelionato.\n(B) Gestão temerária.\n(C) Gestão fraudulenta.\n(D) Gestão temerária + fraudulenta.",
+    "gabarito": "C",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "167",
+    "texto": "Pronúncia — afastada qualificadora — debates no júri:",
+    "alternativas": "(A) Promotor não pode sustentar qualificadora; defesa pode alegar estrito cumprimento.\n(B) Ambos podem alegar.\n(C) Nenhum pode alegar.\n(D) Promotor pode; defesa não pode.",
+    "gabarito": "A",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "168",
+    "texto": "Dúvida sobre legítima defesa — juiz deve:",
+    "alternativas": "(A) Condenar — ônus da defesa.\n(B) Condenar — ônus da acusação.\n(C) Absolver — dúvida favorece réu.\n(D) Suspender sentença.",
+    "gabarito": "C",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "169",
+    "texto": "Testemunhas arroladas depois da acusação:",
+    "alternativas": "(A) Juiz deve deferir.\n(B) Nulidade absoluta.\n(C) Só defere se surgirem fatos novos.\n(D) Deve deferir sempre.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "170",
+    "texto": "Novo júri com pena maior — apelação:",
+    "alternativas": "(A) Não cabe.\n(B) Cabe — violou ne reformatio in pejus.\n(C) Violou tantum devolutum.\n(D) Falta interesse — regime mais brando.",
+    "gabarito": "B",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "171",
+    "texto": "Ação civil no CPP:",
+    "alternativas": "(A) Arquivamento impede propositura.\n(B) Sentença absolutória sempre impede ação civil.\n(C) Execução só pelo valor fixado.\n(D) Condenação transitada — execução possível no cível por ofendido.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "172",
+    "texto": "Furto vira roubo na sentença sem aditamento:",
+    "alternativas": "(A) Anular sentença.\n(B) Manter condenação.\n(C) Vista ao MP.\n(D) Absolver.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "173",
+    "texto": "Indeferida testemunha e juiz julga para evitar prescrição:",
+    "alternativas": "(A) Reduzir pena.\n(B) Anular sentença por violação da ampla defesa.\n(C) Reinquirição em grau recursal.\n(D) Anular + suspender prescrição.",
+    "gabarito": "B",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "174",
+    "texto": "Tributo — Mauro não pagou IR, confessou após notificação:",
+    "alternativas": "(A) Confissão exclui penalidade, mas há juros.\n(B) Como houve notificação, não há denúncia espontânea — paga tributo + multa + juros.\n(C) Incapacidade civil extingue capacidade tributária.\n(D) Se fosse culpa, só pagaria tributo + juros.",
+    "gabarito": "B",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "175",
+    "texto": "Lei ordinária pode:",
+    "alternativas": "(A) Estabelecer penalidades.\n(B) Disciplinar isenções em ISS.\n(C) Normas gerais tributárias.\n(D) Definir tratamento favorecido para ME/EPP.",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "176",
+    "texto": "Sucessão empresarial e responsabilidade tributária:",
+    "alternativas": "(A) Pizza Aqui responde solidariamente se Pizza Já cessar atividade.\n(B) Se Pizza Já continuar atividade por 6 meses, Pizza Aqui responde subsidiariamente.\n(C) Se mudar de ramo em 6 meses, respon de integralmente.\n(D) Em incorporação não há responsabilidade.",
+    "gabarito": "B",
+    "disciplina": "Direito Empresarial"
+  },
+  {
+    "id_questoes": "177",
+    "texto": "Falência — crédito tributário x hipoteca:",
+    "alternativas": "(A) Fazenda tem preferência.\n(B) Fazenda não pode executar.\n(C) Preferência porque dívida é anterior.\n(D) Fazenda respeita preferência hipotecária.",
+    "gabarito": "D",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "178",
+    "texto": "Sítio de recreio em área de expansão urbana com melhoramentos:",
+    "alternativas": "(A) Deve pagar IPTU.\n(B) Deve pagar ITR.\n(C) IPTU por exploração empresarial.\n(D) ITR por falta de hospital/escola.",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "179",
+    "texto": "Lei tributária retroativa:",
+    "alternativas": "(A) Analogia favorável.\n(B) Extinção de tributo.\n(C) Graduação quanto à espécie.\n(D) Penalidade menos severa aplicada retroativamente.",
+    "gabarito": "D",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "180",
+    "texto": "Atualizar base de cálculo do IPTU:",
+    "alternativas": "(A) Deve ser regulado por lei.\n(B) Por lei complementar.\n(C) É majoração.\n(D) Pode ser feito por decreto.",
+    "gabarito": "D",
+    "disciplina": "Direito Tributário"
+  },
+    {
+    "id_questoes": "181",
+    "texto": "O emprego da analogia, em matéria tributária, resultará na",
+    "alternativas": "(A) majoração de tributo.\n(B) instituição de tributo.\n(C) exclusão do crédito tributário.\n(D) impossibilidade de exigência de tributo não previsto em lei.",
+    "gabarito": "D",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "182",
+    "texto": "Considere a seguinte situação hipotética: lei federal fixou alíquotas aplicáveis ao ITR e estabeleceu que a alíquota relativa aos imóveis rurais situados no Rio de Janeiro seria de 5% e a relativa aos demais Estados do Sudeste de 7%. Tal enunciado normativo viola o princípio constitucional",
+    "alternativas": "(A) da uniformidade geográfica da tributação.\n(B) da legalidade tributária.\n(C) da liberdade de tráfego.\n(D) da não diferenciação tributária entre a procedência e o destino do produto.",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "183",
+    "texto": "A Cia. de Limpeza do Município de Trás os Montes, empresa pública municipal, vendeu um imóvel de sua titularidade situado na rua Dois, da quadra 23, localizado no nº 06. Neste caso, o novo proprietário",
+    "alternativas": "(A) não paga o imposto de transmissão de bens imóveis, em função de ser bem público.\n(B) fica isento do imposto predial e territorial urbano, ante a imunidade do patrimônio público.\n(C) paga o IPTU, mas não paga o ITBI, uma vez que, nesta última hipótese, quem transmite a propriedade do bem é empresa pública.\n(D) fica obrigado a pagar todos os tributos que recaiam sobre o bem.",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "184",
+    "texto": "Renato, advogado em início de carreira, é contactado para defender os interesses de Rodrigo que está detido em cadeia pública... À luz das normas aplicáveis,",
+    "alternativas": "(A) o advogado, diante do seu dever de urbanidade, deve aguardar os atos cabíveis da autoridade policial.\n(B) o acesso aos autos, no caso, depende de procuração e de prévia autorização da autoridade policial.\n(C) no caso de réu preso, somente com autorização do juiz pode o advogado acessar os autos do inquérito policial.\n(D) o acesso aos autos de inquérito policial é direito do advogado, mesmo sem procuração ou conclusos à autoridade policial.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "185",
+    "texto": "Mauro, advogado com larga experiência profissional, resolve contratar com emissora de televisão, um novo programa... Consoante as normas aplicáveis, é correto afirmar que:",
+    "alternativas": "(A) a participação em programa televisivo está vedada aos advogados.\n(B) a publicidade, como narrada, é compatível com as normas do Código de Ética.\n(C) o advogado, no caso, deveria se limitar ao aspecto educacional e instrutivo da atividade profissional.\n(D) programas televisivos são franqueados aos advogados, inclusive para realizar propaganda dos seus escritórios.",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "186",
+    "texto": "Fábio, advogado com mais de dez anos de efetiva atividade, obtém a indicação da OAB para concorrer pelo quinto constitucional... Diante disso, à luz das normas estatutárias ocorrerá:",
+    "alternativas": "(A) o cancelamento da inscrição como advogado.\n(B) a suspensão até que cesse a incompatibilidade.\n(C) o licenciamento do profissional.\n(D) a passagem para a reserva do quadro de advogados.",
+    "gabarito": "A",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "187",
+    "texto": "João Vítor e Ana Beatriz, ambos advogados, contraem núpcias... Ana Beatriz, revoltada com as acusações desfechadas por João Vítor, requer que a OAB promova sessão de desagravo... À luz das normas estatutárias,",
+    "alternativas": "(A) nenhum ato poderá ser realizado pela OAB, tendo em vista que as ofensas não ocorreram no exercício da profissão de advogado.\n(B) o ato de desagravo depende somente da qualidade de advogado do ofendido.\n(C) sendo o ofensor advogado, o desagravo é permitido pelo estatuto.\n(D) o desagravo poderá ocorrer privadamente.",
+    "gabarito": "A",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "188",
+    "texto": "Francisco, advogado, dirige-se, com seu cliente, para participar de audiência... A autoridade judicial encontrava-se presente no foro desde as nove horas da manhã... Diante do narrado, à luz das normas estatutárias",
+    "alternativas": "(A) qualquer atraso superior a uma hora justifica a retirada do recinto, pelo advogado.\n(B) o advogado deveria, no caso narrado, peticionar ao Magistrado e retirar-se do recinto.\n(C) o atraso que justifica a retirada do advogado está condicionado à ausência da autoridade judicial no evento.\n(D) meros atrasos da autoridade judicial não permitem a retirada do advogado do recinto.",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "189",
+    "texto": "Dentre as sanções cabíveis no processo disciplinar realizado pela OAB no concernente aos advogados estão a censura, a suspensão, a exclusão e a multa. Dentre as circunstâncias atenuantes para a aplicação do ato sancionatório, encontra-se, consoante o Estatuto,",
+    "alternativas": "(A) exercício assíduo e proficiente em mandato realizado na OAB.\n(B) ser reincidente em faltas da mesma natureza.\n(C) prestação de serviços à advocacia, mesmo irrelevantes.\n(D) ter sido o ato cometido contra outro integrante de carreira jurídica.",
+    "gabarito": "A",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "190",
+    "texto": "Eduardo, advogado, é contratado para defender os interesses de Otávio, próspero fazendeiro... À luz das normas aplicáveis,",
+    "alternativas": "(A) os honorários sucumbenciais e os contratados são naturalmente excludentes, devendo o profissional optar por um deles.\n(B) os honorários contratuais devem ser sempre em valor fixo.\n(C) os honorários de sucumbência podem, ao alvedrio das partes, sofrer desconto dos honorários pactuados contratualmente.\n(D) os honorários sucumbenciais acrescidos dos honorários contratuais podem superar o benefício econômico obtido pelo cliente.",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "191",
+    "texto": "Caio, advogado, inscrito na OAB-SP, após aprovação em concorrido Exame de Ordem... Estando no local, foi surpreendido por designação do Juiz Titular... Diante desse quadro",
+    "alternativas": "(A) o ato deveria ter sido adiado diante da exclusividade da atuação da Defensoria Pública.\n(B) o advogado deveria ter recusado o encargo, mesmo sem justificativa plausível.\n(C) a recusa nesses casos poderá ocorrer, com justo motivo.\n(D) a recusa poderia ocorrer diante da ausência de sanção disciplinar.",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "192",
+    "texto": "Michel, Philippe e Lígia, bacharéis em Direito recém-formados... comprometem-se a empreender a atividade advocatícia de forma conjunta... No concernente ao tema, à luz das normas aplicáveis",
+    "alternativas": "(A) a sociedade de advogados é de natureza empresarial.\n(B) os advogados sócios da sociedade de advogados respondem limitadamente por danos causados aos clientes.\n(C) o registro da sociedade de advogados é realizado no Conselho Seccional da OAB onde a mesma mantiver sede.\n(D) não é possível associação com advogados, sem vínculo de emprego, para participação nos resultados.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "193",
+    "texto": "Joel é experiente advogado, inscrito há muitos anos nos quadros da OAB. Em atividade profissional, comparece à sessão de tribunal... No concernente ao tema, à luz das normas estatutárias, o advogado",
+    "alternativas": "(A) deve aguardar o final do julgamento, com a proclamação do resultado, para apresentar questão de ordem.\n(B) poderá usar a palavra, pela ordem, para esclarecer questão de fato, que influencie o julgamento.\n(C) não possui instrumento hábil para interromper o julgamento.\n(D) após o final do julgamento deverá, mediante nova sustentação oral, indicar os erros cometidos.",
+    "gabarito": "B",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "194",
+    "texto": "Antônio e Joana casaram-se pelo regime da comunhão parcial de bens. Após o casamento, Antônio tornou-se sócio de sociedade simples... Assinale a alternativa que indique o que Joana pode fazer em relação às quotas de seu ex-cônjuge.",
+    "alternativas": "(A) Solicitar judicialmente a partilha das quotas de Antônio, ingressando na sociedade com 500 quotas ou 10% do capital social.\n(B) Requerer a dissolução parcial da sociedade de modo a receber o valor de metade das quotas de Antônio calculado com base em balanço especialmente levantado, tomando-se como base a data da separação.\n(C) Participar da divisão de lucros até que se liquide a sociedade, ainda que não possa nela ingressar.\n(D) Requerer a dissolução da sociedade e a liquidação dos bens sociais para que, apurados os haveres dos sócios, possa receber a parte que lhe pertence das quotas de seu ex-cônjuge.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "195",
+    "texto": "No que se refere à cessão de quotas de sociedade empresária limitada, assinale a alternativa correta.",
+    "alternativas": "(A) O cedente responde solidariamente com o cessionário perante a sociedade e terceiros pelas obrigações que tinha como sócio até 3 anos após averbado no registro competente a modificação do contrato social.\n(B) Na omissão do contrato, o sócio pode ceder sua quota, total ou parcialmente, a quem já seja sócio, independentemente da audiência dos demais.\n(C) A cessão de quotas, consubstanciada na respectiva alteração contratual, terá eficácia entre cedente e cessionário somente após a sua averbação perante o órgão competente.\n(D) Na omissão do contrato, o sócio pode ceder sua quota, total ou parcialmente, para terceiro, estranho ao quadro de sócios, somente se houver a concordância da unanimidade dos demais sócios.",
+    "gabarito": "B",
+    "disciplina": "Direito Empresarial"
+  },
+  {
+    "id_questoes": "196",
+    "texto": "Jogador de futebol de um importante time espanhol e titular da seleção brasileira é filmado por um celular... O jogador ajuíza uma ação no Brasil contra o portal de vídeos... O juiz brasileiro",
+    "alternativas": "(A) não é competente, porque o réu é pessoa jurídica estrangeira.\n(B) terá competência porque os danos à imagem ocorreram no Brasil.\n(C) deverá remeter o caso, por carta rogatória, à justiça norte-americana.\n(D) terá competência porque o autor tem nacionalidade brasileira.",
+    "gabarito": "B",
+    "disciplina": "Direito Internacional"
+  },
+  {
+    "id_questoes": "197",
+    "texto": "Um contrato internacional entre um exportador brasileiro de laranjas e o comprador americano, previu que em caso de litígio fosse utilizada a arbitragem... O juiz decidiu:",
+    "alternativas": "(A) extinguir o feito sem julgamento de mérito, em face da cláusula arbitral.\n(B) deferir o pedido, na forma requerida.\n(C) indeferir o pedido porque o local do cumprimento do contrato é nos Estados Unidos.\n(D) deferir o pedido, em razão da competência concorrente da justiça brasileira.",
+    "gabarito": "A",
+    "disciplina": "Direito Internacional"
+  },
+  {
+    "id_questoes": "198",
+    "texto": "Dentre os direitos de toda criança ou todo adolescente, o ECA assegura o de ser criado e educado no seio de sua família e, excepcionalmente, a colocação em família substituta... Fundando-se em tal preceito, acerca da colocação em família substituta, é correto afirmar que:",
+    "alternativas": "(A) a colocação em família substituta far-se-á, exclusivamente, por meio da tutela ou da adoção.\n(B) a guarda somente obriga seu detentor à assistência material a criança ou adolescente.\n(C) o adotando não deve ter mais que 18 anos à data do pedido, salvo se já estiver sob a guarda ou tutela dos adotantes.\n(D) desde que comprovem seu estado civil de casados, somente os maiores de 21 anos podem adotar.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "199",
+    "texto": "Tendo por substrato legal as alterações promovidas pela Lei n. 12.010, de 2009 no tocante à adoção, assinale a afirmativa correta.",
+    "alternativas": "(A) A morte dos adotantes não restabelece o poder familiar dos pais naturais.\n(B) Para viabilizar a celeridade no processo de adoção, a legislação específica – ECA – admite a representação do adotante por procuração.\n(C) Uma vez falecido o adotante no curso do procedimento de adoção e antes de prolatada a sentença, não poderá o juiz deferir a adoção, mesmo que tenha havido inequívoca manifestação de vontade do adotante.\n(D) Os cartórios de registros públicos de pessoas naturais deverão fornecer certidão a qualquer requisitante, independentemente, de justificativa de seu interesse, em que conste o vínculo da adoção constituído por sentença judicial.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "200",
+    "texto": "Considerando a repartição de competências ambientais estabelecida na Constituição Federal, assinale a alternativa correta.",
+    "alternativas": "(A) Deverá ser editada lei ordinária com as normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios para o exercício da competência comum de defesa do meio ambiente.\n(B) A exigência de apresentação, no processo de licenciamento ambiental, de certidão da Prefeitura Municipal sobre a conformidade do empreendimento com a legislação de uso e ocupação do solo decorre da competência do município para o planejamento e controle do uso, do parcelamento e da ocupação do solo urbano.\n(C) Legislar sobre proteção do meio ambiente e controle da poluição é de competência concorrente da União, dos Estados, do Distrito Federal e dos Municípios, com fundamento no artigo 24 da Constituição Federal.\n(D) A competência executiva em matéria ambiental não alcança a aplicação de sanções administrativas por infração à legislação de meio ambiente.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "201",
+    "texto": "Diante das disposições estabelecidas pela Lei n. 9.605/98 sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, assinale a alternativa correta.",
+    "alternativas": "(A) A desconsideração da pessoa jurídica somente será admitida se a pena restritiva de direitos se revelar inócua para os fins a que se destina.\n(B) A pena restritiva de direitos da pessoa jurídica, no que tange a proibição de contratar com o poder público, terá duração equivalente ao tempo de permanência dos efeitos negativos da conduta delituosa sobre o meio ambiente.\n(C) Constitui inovação da lei de crimes ambientais a excludente de antijuridicidade relativamente ao comércio não autorizado de animais da fauna silvestre voltado exclusivamente à subsistência da entidade familiar.\n(D) Os tipos penais ambientais, em regra, descrevem crimes de perigo abstrato, que se consumam com a própria criação do risco, efetivo ou presumido, independentemente de qualquer resultado danoso.",
+    "gabarito": "D",
+    "disciplina": "Direito Ambiental"
+  },
+  {
+    "id_questoes": "202",
+    "texto": "Sobre o tratamento da publicidade no Código de Defesa do Consumidor, é correto afirmar que:",
+    "alternativas": "(A) a publicidade somente vincula o fornecedor se contiver informações falsas.\n(B) a publicidade que não informa sobre a origem do produto é considerada enganosa, mesmo quando não essencial para o produto.\n(C) o ônus da prova da veracidade da mensagem publicitária cabe ao veículo de comunicação.\n(D) é abusiva a publicidade que desrespeita valores ambientais.",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "203",
+    "texto": "Nas ações coletivas, o efeito da coisa julgada material será:",
+    "alternativas": "(A) Tratando-se de direitos individuais homogêneos, efeito erga omnes, se procedente, mas só aproveita aquele que se habilitou até o trânsito em julgado.\n(B) Tratando-se de direitos individuais homogêneos, julgados improcedentes, o consumidor, que não tiver conhecimento da ação, não poderá intentar ação individual.\n(C) Tratando-se de direitos difusos, no caso de improcedência por insuficiência de provas, não faz coisa julgada material, podendo, qualquer prejudicado, intentar nova ação com os mesmo fundamentos, valendo-se de novas provas.\n(D) Tratando-se de direitos coletivos, no caso de improcedência do pedido de nulidade de cláusula contratual, o efeito é ultra partes e impede a propositura de ação individual.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "204",
+    "texto": "A obrigatoriedade ou necessidade de deliberação plenária dos tribunais, no sistema de controle de constitucionalidade brasileiro, significa que:",
+    "alternativas": "(A) somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.\n(B) a parte legitimamente interessada pode recorrer ao respectivo Tribunal Pleno das decisões dos órgãos fracionários dos Tribunais Federais ou Estaduais que, em decisão definitiva, tenha declarado a inconstitucionalidade de lei ou ato normativo.\n(C) somente nas sessões plenárias de julgamento dos Tribunais Superiores é que a matéria relativa a eventual inconstitucionalidade da lei ou ato normativo pode ser decidida.\n(D) a competência do Supremo Tribunal Federal para processar e julgar toda e qualquer ação que pretenda invalidar lei ou ato normativo do Poder Público pode ser delegada a qualquer tribunal, condicionada a delegação a que a decisão seja proferida por este órgão jurisdicional delegado em sessão plenária.",
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "205",
+    "texto": "O Congresso Nacional e suas respectivas Casas se reúnem anualmente para a atividade legislativa. Com relação ao sistema constitucional brasileiro, assinale a alternativa correta.",
+    "alternativas": "(A) Legislatura: o período compreendido entre 2 de fevereiro a 17 de julho e 1º de agosto a 22 de dezembro.\n(B) Sessão legislativa: os quatro anos equivalentes ao mandato dos parlamentares.\n(C) Sessão conjunta: a reunião da Câmara dos Deputados e do Senado Federal destinada, por exemplo, a conhecer do veto presidencial e sobre ele deliberar.\n(D) Sessão extraordinária: a que ocorre por convocação ou do Presidente do Senado Federal ou do Presidente da Câmara dos Deputados ou do Presidente da República e mesmo por requerimento da maioria dos membros de ambas as Casas para, excepcionalmente, inaugurar a sessão legislativa e eleger as respectivas mesas diretoras.",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "206",
+    "texto": "Em relação aos Ministros de Estado, a Constituição do Brasil estabelece que:",
+    "alternativas": "(A) como delegatários do Presidente da República, podem, desde que autorizados, extinguir cargos públicos.\n(B) podem expedir instruções para a execução de leis e editarem medidas provisórias.\n(C) somente os brasileiros natos poderão exercer a função.\n(D) respondem, qualquer que seja a infração cometida, perante o Superior Tribunal de Justiça.",
+    "gabarito": "A",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "207",
+    "texto": "Considerando que nos termos dispostos no art. 133 da Constituição do Brasil, o advogado é indispensável à administração da justiça, sendo até mesmo inviolável por seus atos e manifestações no exercício da profissão, é correto afirmar que:",
+    "alternativas": "(A) a imunidade profissional não pode sofrer restrições de qualquer natureza.\n(B) nenhuma demanda judicial, qualquer que seja o órgão do Poder Judiciário pelo qual tramite, independentemente de sua natureza, objeto e partes envolvidas, pode receber a prestação jurisdicional se não houver atuação de advogado.\n(C) a inviolabilidade do escritório ou local de trabalho é assegurada nos termos da lei, não sendo vedadas, contudo, a busca e a apreensão judicialmente decretadas, por decisão motivada, desde que realizada na presença de representante da OAB, salvo se esta, devidamente notificada ou solicitada, não proceder à indicação.\n(D) a prisão do advogado, por motivo de exercício da profissão, somente poderá ocorrer em flagrante, mesmo em caso de crime afiançável.",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional / Estatuto da OAB"
+  },
+  {
+    "id_questoes": "208",
+    "texto": "A respeito do Conselho Nacional de Justiça é correto afirmar que:",
+    "alternativas": "(A) é órgão integrante do Poder Judiciário com competência administrativa e jurisdicional.\n(B) pode rever, de ofício ou mediante provocação, os processos disciplinares de juízes e membros de Tribunais julgados há menos de um ano.\n(C) seus atos sujeitam-se ao controle do Supremo Tribunal Federal e do Superior Tribunal de Justiça.\n(D) a presidência é exercida pelo Ministro do Supremo Tribunal Federal que o integra e que exerce o direito de voto em todas as deliberações submetidas àquele órgão.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "209",
+    "texto": "Em relação à inovação da ordem constitucional que instituiu a nominada Súmula Vinculante, é correto afirmar que:",
+    "alternativas": "(A) somente os Tribunais Superiores podem editá-la.\n(B) podem ser canceladas, mas vedada a mera revisão.\n(C) a proposta para edição da Súmula pode ser provocada pelos legitimados para a propositura da ação direta de inconstitucionalidade.\n(D) desde que haja reiteradas decisões sobre matéria constitucional, o Supremo Tribunal Federal poderá, de ofício ou por provocação, aprovar a Súmula mediante decisão da maioria absoluta de seus membros.",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "210",
+    "texto": "Um determinado Estado-membro editou lei estabelecendo disciplina uniforme para a data de vencimento das mensalidades das instituições de ensino sediadas no seu território. Examinada a questão à luz da partilha de competência entre os entes federativos, é correto afirmar que:",
+    "alternativas": "(A) mensalidade escolar versa sobre direito obrigacional, portanto, de natureza contratual, logo cabe à União legislar sobre o assunto.\n(B) a matéria legislada tem por objeto prestação de serviço educacional, devendo ser considerada como de interesse típico municipal.\n(C) por versar o conteúdo da lei sobre educação, a competência do Estado-membro é concorrente com a da União.\n(D) somente competirá aos Estados-membros legislar sobre o assunto quando se tratar de mensalidades cobradas por instituições particulares de Ensino Médio.",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "211",
+    "texto": "Sabe-se a polêmica ainda existente na doutrina constitucionalista pátria no que se refere à eventual hierarquia da Lei Complementar sobre a Lei Ordinária... A partir do fragmento acima, assinale a afirmativa incorreta.",
+    "alternativas": "(A) A Lei Complementar exige aprovação por maioria absoluta, enquanto a lei ordinária é aprovada por maioria simples dos membros presentes à sessão, desde que presente a maioria absoluta dos membros de cada Casa ou de suas Comissões.\n(B) As matérias que devem ser regradas por Lei Complementar encontram-se taxativamente indicadas no texto constitucional e, desde que não seja assunto específico de normatização por decreto legislativo ou resolução, o regramento de todo o resíduo competirá à lei ordinária.\n(C) As matérias reservadas à Lei Complementar não serão objeto de delegação do Congresso ao Presidente da República.\n(D) A discussão e votação dos projetos de lei ordinária devem, obrigatoriamente, ter início na Câmara dos Deputados",
+    "gabarito": "D",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "212",
+    "texto": "Declarando o Supremo Tribunal Federal, incidentalmente, a inconstitucionalidade de lei ou ato normativo federal em face da Constituição do Brasil, caberá",
+    "alternativas": "(A) ao Procurador-Geral da República, como chefe do Ministério Público da União, expedir atos para o cumprimento da decisão pelos membros do Ministério Público Federal e dos Estados.\n(B) ao Presidente da República editar decreto para tornar inválida a lei no âmbito da administração pública.\n(C) ao Senado Federal suspender a execução da lei, total ou parcialmente, conforme o caso, desde que a decisão do Supremo Tribunal Federal seja definitiva.\n(D) ao Advogado-Geral da União interpor o recurso cabível para impedir que a União seja compelida a cumprir a referida decisão.",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "213",
+    "texto": "Sobre o instrumento jurídico denominado Medida Provisória que não é lei, mas tem força de lei, assinale a afirmativa correta.",
+    "alternativas": "(A) A sua eficácia dura sessenta dias contados da publicação, podendo a medida ser prorrogada apenas duas vezes, ambas por igual período.\n(B) Se a Medida Provisória perder eficácia por decurso de prazo ou, em caráter expresso, for rejeitada pelo Congresso Nacional, vedada será sua reedição na mesma sessão legislativa.\n(C) A não apreciação pela Câmara dos Deputados e, após, pelo Senado Federal, no prazo de 45 dias contados da publicação, tem como consequência apenas o sobrestamento da deliberação dos projetos de emenda à Constituição.\n(D) A edição de Medida Provisória torna prejudicado o projeto de lei que disciplina o mesmo assunto e que, a par de já aprovado pelo Congresso Nacional, está pendente de sanção ou veto do Presidente da República.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "214",
+    "texto": "Acerca do tombamento, como uma das formas de o Estado intervir na propriedade privada, os proprietários passam a ter obrigações negativas que estão relacionadas nas alternativas a seguir, à exceção de uma. Assinale-a.",
+    "alternativas": "(A) Os proprietários são obrigados a colocar os seus imóveis tombados à disposição da Administração Pública para que possam ser utilizados como repartições públicas, quando da necessidade imperiosa de utilização, a fim de suprir a prestação de serviços pelo Estado de forma eficiente.\n(B) Os proprietários são obrigados a suportar a fiscalização dos órgãos administrativos competentes.\n(C) Os proprietários não podem destruir, demolir ou mutilar o bem imóvel e somente poderão restaurá-lo, repará-lo ou pintá-lo após a obtenção de autorização especial do órgão administrativo competente.\n(D) Os proprietários não podem alienar os bens, ressalvada a possibilidade de transferência para uma entidade pública.",
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "215",
+    "texto": "O poder de polícia, conferindo a possibilidade de o Estado limitar o exercício da liberdade ou das faculdades de proprietário, em prol do interesse público",
+    "alternativas": "(A) gera a possibilidade de cobrança, como contrapartida, de preço público.\n(B) se instrumentaliza sempre por meio de alvará de autorização.\n(C) afasta a razoabilidade, para atingir os seus objetivos maiores, em prol da predominância do interesse público.\n(D) deve ser exercido nos limites da lei, gerando a possibilidade de cobrança de taxa.",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "216",
+    "texto": "A doutrina costuma afirmar que certas prerrogativas postas à Administração encerram verdadeiros poderes, que são irrenunciáveis e devem ser exercidos sempre que o interesse público clamar. Por tal razão são chamados poder-dever. A esse respeito é correto afirmar que:",
+    "alternativas": "(A) o poder regulamentar é amplo, e permite, sem controvérsias, a edição de regulamentos autônomos e executórios.\n(B) o poder disciplinar importa à administração o dever de apurar infrações e aplicar penalidades, mesmo não havendo legislação prévia.\n(C) o poder de polícia se coloca discricionário, conferindo ao administrador ilimitada margem de opções quanto à sanção a ser, eventualmente, aplicada.\n(D) o poder hierárquico é inerente à ideia de verticalização administrativa, e revela as possibilidades de controlar atividades, delegar competência, avocar competências delegáveis e invalidar atos, dentre outros.",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "217",
+    "texto": "Em determinado procedimento administrativo disciplinar, a Administração federal impôs, ao servidor, a pena de advertência, tendo em vista a comprovação de ato de improbidade... Com base no fragmento acima, é correto afirmar que a Administração Federal",
+    "alternativas": "(A) agiu em desrespeito aos princípios da eficiência e da instrumentalidade, autorizativos da reforma em prejuízo do recorrente, desde que não imponha pena grave.\n(B) agiu em respeito aos princípios da legalidade e autotutela, autorizativos da reforma em prejuízo do recorrente.\n(C) não observou o princípio da dignidade da pessoa humana, trazendo equivocada reforma em prejuízo do recorrente.\n(D) não observou o princípio do devido processo legal, trazendo equivocada reforma em prejuízo do recorrente.",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "218",
+    "texto": "Nas hipóteses de desapropriação, em regra geral, os requisitos constitucionais a serem observados pela Administração Pública são os seguintes:",
+    "alternativas": "(A) comprovação da necessidade ou utilidade pública ou de interesse social; pagamento de indenização prévia ao ato de imissão na posse pelo Poder Público, e que seja justa e em dinheiro; e observância de ato administrativo, sem contraditório por parte do proprietário.\n(B) comprovação da necessidade ou utilidade pública ou de interesse social; pagamento de indenização prévia ao ato de imissão na posse pelo Poder Público, e que seja justa e em dinheiro; e observância de procedimento administrativo, com respeito ao contraditório e ampla defesa por parte do proprietário.\n(C) comprovação da necessidade ou utilidade pública ou de interesse social; pagamento de indenização prévia ao ato de imissão na posse pelo Poder Público, e que seja justa e em títulos da dívida pública ou quaisquer outros títulos públicos, negociáveis no mercado financeiro; e observância de procedimento administrativo, com respeito ao contraditório e ampla defesa por parte do proprietário.\n(D) comprovação da necessidade ou utilidade pública ou de interesse social; pagamento de indenização, posteriormente ao ato de imissão na posse pelo Poder Público, e que seja justa e em dinheiro; e observância de procedimento administrativo, com respeito ao contraditório e ampla defesa por parte do proprietário.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "219",
+    "texto": "No Direito Público brasileiro, o grau de autonomia das Agências Reguladoras é definido por uma independência",
+    "alternativas": "(A) administrativa total e absoluta, uma vez que a Constituição da República de 1988 não lhes exige qualquer liame, submissão ou controle administrativo dos órgãos de cúpula do Poder Executivo.\n(B) administrativa mitigada, uma vez que a própria lei que cria cada uma das Agências Reguladoras define e regulamenta as relações de submissão e controle, fundado no poder de supervisão dos Ministérios a que cada uma se encontra vinculada, em razão da matéria, e na superintendência atribuída ao chefe do Poder Executivo, como chefe superior da Administração Pública.\n(C) legislativa total e absoluta, visto que gozam de poder normativo regulamentar, não se sujeitando assim às leis emanadas pelos respectivos Poderes legislativos de cada ente da federação brasileira.\n(D) política decisória, pois não estão obrigadas a seguir as decisões de políticas públicas adotadas pelos Poderes do Estado (executivo e legislativo).",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "220",
+    "texto": "Determinada Administração Pública realiza concurso para preenchimento de cargos de detetive, categoria I... A partir do fragmento acima, assinale a alternativa correta.",
+    "alternativas": "(A) Os referidos agentes têm razão, pois investidos irregularmente, estão exercendo as suas atividades há mais de 4 (quatro) anos, a consolidar a situação.\n(B) É inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente foi investido.\n(C) Não têm ainda o direito, pois dependem do transcurso do prazo de 15 (quinze) anos para que possam ser tidos como delegados, por usucapião.\n(D) É inconstitucional esta modalidade de provimento do cargo, pois afronta o princípio do concurso público, porém não podem ter alterado os ganhos vencimentais, sedimentado pelos anos, pelo princípio da irredutibilidade.",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "221",
+    "texto": "Uma das características dos contratos administrativos é a “instabilidade” quanto ao seu objeto que decorre",
+    "alternativas": "(A) do poder conferido à Administração Pública de alterar, unilateralmente, algumas cláusulas do contrato, no curso de sua execução, na forma do artigo 58, inciso I da Lei n. 8.666/93, a fim de adequar o objeto do contrato às finalidades de interesse público, respeitados os direitos do contratado.\n(B) da possibilidade do contratado (particular) alterar, unilateralmente, a qualquer tempo, algumas cláusulas do contrato, no curso de sua execução, de forma a atender aos seus próprios interesses em face das prerrogativas da Administração Pública.\n(C) do poder conferido à Administração Pública de alterar, unilateralmente, algumas cláusulas do contrato, no curso de sua execução, na forma do artigo 58, inciso I da Lei n. 8.666/93, a fim de adequar o objeto do contrato aos interesses do contratado (particular) em face das prerrogativas da Administração Pública.\n(D) de não haver qualquer possibilidade de alteração do objeto do contrato administrativo, quer pela Administração Pública, quer pelo contratado (particular), tendo em vista o princípio da vinculação ao edital licitatório, do qual o contrato e seu objeto fazem parte integrante; e o princípio da juridicidade, do qual aquele primeiro decorre.",
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "222",
+    "texto": "Uma determinada empresa concessionária transfere o seu controle acionário para uma outra empresa privada, sem notificar, previamente, o Poder concedente, parte no contrato de concessão. Assinale a alternativa que indique a medida que o Poder concedente poderá tomar...",
+    "alternativas": "(A) Poderá o Poder concedente declarar a caducidade da concessão, tendo em vista o caráter intuitu personae do contrato de concessão.\n(B) Poderá retomar o serviço, por motivo de interesse público, através da encampação, autorizada por lei específica, após prévio pagamento da indenização.\n(C) Poderá o Poder concedente anular o contrato de concessão, através de decisão administrativa,, uma vez que a transferência acionária da empresa concessionária sem a notificação prévia ao Poder concedente gera irregularidade, insusceptível de convalidação.\n(D) Nada poderá fazer o Poder concedente, uma vez que a empresa concessionária, apesar da alteração societária, não desnatura o caráter intuitu personae do contrato de concessão.",
+    "gabarito": "A",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "223",
+    "texto": "No âmbito do Poder discricionário da Administração Pública, não se admite que o agente público administrativo exerça o Poder discricionário",
+    "alternativas": "(A) quando estiver diante de conceitos legais e jurídicos parcialmente indeterminados, que se tornam determinados à luz do caso concreto e à luz das circunstâncias de fato.\n(B) quando estiver diante de conceitos legais e jurídicos técnicocientíficos, sendo, neste caso, limitado às escolhas técnicas, por óbvio possíveis.\n(C) quando estiver diante de conceitos valorativos estabelecidos pela lei, que dependem de concretização pelas escolhas do agente, considerados o momento histórico e social.\n(D) em situações em que a redação da Lei se encontra insatisfatória ou ultrapassada.",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "224",
+    "texto": "Com relação ao regime da solidariedade passiva, é correto afirmar que:",
+    "alternativas": "(A) cada herdeiro pode ser demandado pela dívida toda do devedor solidário falecido.\n(B) com a perda do objeto por culpa de um dos devedores solidários, a solidariedade subsiste no pagamento do equivalente pecuniário, mas pelas perdas e danos somente poderá ser demandado o culpado.\n(C) se houver atraso injustificado no cumprimento da obrigação por culpa de um dos devedores solidários, a solidariedade subsiste no pagamento do valor principal, mas pelos juros da mora somente poderá ser demandado o culpado.\n(D) as exceções podem ser aproveitadas por qualquer dos devedores solidários, ainda que sejam pessoais apenas a um deles.",
+    "gabarito": "B",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "225",
+    "texto": "Em 2004, Joaquim, que não tinha herdeiros necessários, lavrou um testamento contemplando como sua herdeira universal Ana... Assinale a alternativa que indique a quem caberá a herança de Joaquim.",
+    "alternativas": "(A) Rubens.\n(B) Catarina.\n(C) Ana.\n(D) A herança será vacante.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "226",
+    "texto": "A respeito das diferenças e semelhanças entre prescrição e decadência, no Código Civil, é correto afirmar que:",
+    "alternativas": "(A) a prescrição acarreta a extinção do direito potestativo, enquanto a decadência gera a extinção do direito subjetivo.\n(B) os prazos prescricionais podem ser suspensos e interrompidos, enquanto os prazos decadenciais legais não se suspendem ou interrompem, com exceção da hipótese de titular de direito absolutamente incapaz, contra o qual não corre nem prazo prescricional nem prazo decadencial.\n(C) não se pode renunciar à decadência legal nem à prescrição, mesmo após consumadas.\n(D) a prescrição é exceção que deve ser alegada pela parte a quem beneficia, enquanto a decadência pode ser declarada de ofício pelo juiz.",
+    "gabarito": "B",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "227",
+    "texto": "Sobre o constituto possessório, assinale a alternativa correta.",
+    "alternativas": "(A) Trata-se de modo originário de aquisição da propriedade.\n(B) Trata-se de modo originário de aquisição da posse.\n(C) Representa uma tradição ficta.\n(D) É imprescindível para que se opere a transferência da posse aos herdeiros na sucessão universal.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "228",
+    "texto": "Durante dez anos, empregados de uma fabricante de extrato de tomate distribuíram, gratuitamente, sementes de tomate entre agricultores de uma certa região... O tribunal competente entendeu que havia responsabilidade pré-contratual da fabricante. A responsabilidade pré-contratual é aquela que:",
+    "alternativas": "(A) deriva da violação à boa-fé objetiva na fase das negociações preliminares à formação do contrato.\n(B) deriva da ruptura de um pré-contrato, também chamado contrato preliminar.\n(C) surgiu, como instituto jurídico, em momento histórico anterior à responsabilidade contratual.\n(D) segue o destino da responsabilidade contratual, como o acessório segue o principal.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "229",
+    "texto": "Jane e Carlos constituíram uma união estável em julho de 2003 e não celebraram contrato para regular as relações patrimoniais decorrentes da aludida entidade familiar... Assinale a alternativa que indique a orientação correta a ser exposta a Carlos.",
+    "alternativas": "(A) Por se tratar de bem adquirido a título oneroso na vigência da união estável, Carlos tem direito a partilhar o imóvel adquirido por Jane na Barra da Tijuca em maio de 2005.\n(B) Carlos não tem direito a partilhar o imóvel adquirido por Jane na Barra da Tijuca em maio de 2005 porque, salvo contrato escrito entre os companheiros, aplica-se às relações patrimoniais entre os mesmos o regime da separação total de bens.\n(C) Carlos não tem direito a partilhar o imóvel adquirido por Jane na Barra da Tijuca em maio de 2005 porque, em virtude da ausência de contrato escrito entre os companheiros, aplicase às relações patrimoniais entre os mesmos o regime da comunhão parcial de bens, que exclui dos bens comuns entre os consortes aqueles doados e os sub-rogados em seu lugar.\n(D) Carlos tem direito a partilhar o imóvel adquirido por Jane na Barra da Tijuca em maio de 2005 porque, muito embora o referido bem tenha sido adquirido com o produto de uma doação, não se aplica a sub-rogação de bens na união estável.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "230",
+    "texto": "Passando por dificuldades financeiras, Alexandre instituiu uma hipoteca sobre imóvel de sua propriedade... Consultando seu advogado, Alexandre ouviu dele que não poderia alienar o imóvel, já que havia uma cláusula na escritura de instituição da hipoteca que o proibia de alienar o bem hipotecado. A opinião do advogado de Alexandre",
+    "alternativas": "(A) está incorreta, porque a hipoteca instituída não produz efeitos, pois, na hipótese, o direito real em garantia a ser instituído deveria ser o penhor.\n(B) está incorreta, porque Alexandre está livre para alienar o imóvel, pois a cláusula que proíbe o proprietário de alienar o bem hipotecado é nula.\n(C) está incorreta, uma vez que a hipoteca é nula, pois não é possível instituir hipoteca sobre bem de família do devedor hipotecário.\n(D) está correta, porque em virtude da proibição contratual, Alexandre não poderia alienar o imóvel enquanto recaísse sobre ele a garantia hipotecária.",
+    "gabarito": "B",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "231",
+    "texto": "Por meio de uma promessa de compra e venda, celebrada por instrumento particular registrada no cartório de Registro de Imóveis... Juvenal foi residir no imóvel... e deparouse com a recusa do promitente-vendedor em outorgar-lhe a escritura definitiva do imóvel. Diante do impasse, Juvenal poderá",
+    "alternativas": "(A) requerer ao juiz a adjudicação do imóvel, a despeito de a promessa de compra e venda ter sido celebrada por instrumento particular.\n(B) usucapir o imóvel, já que não faria jus à adjudicação compulsória na hipótese.\n(C) desistir do negócio e pedir o dinheiro de volta.\n(D) exigir a substituição do imóvel prometido à venda por outro, muito embora inexistisse previsão expressa a esse respeito no contrato preliminar.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "232",
+    "texto": "João prometeu transferir a propriedade de uma coisa certa, mas antes disso, sem culpa sua, o bem foi deteriorado. Segundo o Código Civil, ao caso de João aplica-se o seguinte regime jurídico:",
+    "alternativas": "(A) a obrigação fica resolvida, com a devolução de valores eventualmente pagos.\n(B) a obrigação subsiste, com a entrega da coisa no estado em que se encontra.\n(C) a obrigação subsiste, com a entrega da coista no estado em que se encontra e abatimento no preço proporcional à deterioração.\n(D) a obrigação poderá ser resolvida, com a devolução de valores eventualmente pagos, ou subsistir, com a entrega da coisa no estado em que se encontra e abatimento no preço proporcional à deterioração, cabendo ao credor a escolha de uma dentre as duas soluções.",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "233",
+    "texto": "Assinale a alternativa que contemple exclusivamente obrigação propter rem:",
+    "alternativas": "(A) a obrigação de indenizar decorrente da aluvião e aquela decorrente da avulsão.\n(B) a hipoteca e o dever de pagar as cotas condominiais.\n(C) o dever que tem o servidor da posse de exercer o desforço possessório e o dever de pagar as cotas condominiais.\n(D) a obrigação que tem o proprietário de um terreno de indenizar o terceiro que, de boa-fé, erigiu benfeitorias sobre o mesmo.",
+    "gabarito": "D",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "234",
+    "texto": "A Lei n. 9.099/95 disciplina os chamados Juizados Especiais Cíveis no âmbito Estadual. Nela é possível encontrar diversas regras especiais, que diferenciam o procedimento dos Juizados do procedimento comum do CPC. Segundo a Lei n. 9.099/95, assinale a alternativa que indique uma dessas regras específicas.",
+    "alternativas": "(A) Não é cabível nenhuma forma de intervenção de terceiros nem de assistência.\n(B) É vedado o litisconsórcio.\n(C) Nas ações propostas por microempresas, admite-se a reconvenção.\n(D) Se o pedido formulado for genérico, admite-se, excepcionalmente, sentença ilíquida.",
+    "gabarito": "A",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "235",
+    "texto": "A capacidade é um dos pressupostos processuais. Caso o juiz verifique que uma das partes é incapaz ou há irregularidade em sua representação, deverá suspender o processo e marcar prazo razoável para que o defeito seja sanado. Assinale a alternativa que indique a providência correta a ser tomada pelo magistrado, na hipótese de persistência do vício.",
+    "alternativas": "(A) Se o vício se referir ao autor, deve o juiz aplicar-lhe multa por litigância de má-fé.\n(B) Se o vício se referir ao autor, deve o juiz proferir o julgamento antecipado da lide.\n(C) Se o vício se referir ao réu, deve o juiz reputá-lo revel.\n(D) Se o vício se referir ao réu, deve o juiz julgar a causa em seu desfavor",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "236",
+    "texto": "As medidas cautelares estão expressamente previstas no CPC como forma de instrumentalizar a tutela, tendo natureza eminentemente acessória. Assinale a alternativa que apresente uma regra que disciplina a concessão de medidas cautelares.",
+    "alternativas": "(A) o Juiz, como regra, deve deferir medidas cautelares sem a prévia audiência do requerido.\n(B) o direito brasileiro admite apenas medidas cautelares incidentais, sendo vedado o uso de medidas prévias.\n(C) interposto recurso nos autos principais, fica vedado o requerimento de cautelares.\n(D) salvo decisão em contrário, a cautelar conserva sua eficácia mesmo durante o período de suspensão do processo principal.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "237",
+    "texto": "A incompetência do juízo, tal como prevista no CPC, pode assumir duas feições, de acordo com a natureza do vício e ainda com as consequências advindas de tal reconhecimento. O Código trata, então, da incompetência absoluta e da relativa. A respeito dessas modalidades de incompetência, assinale a afirmativa correta.",
+    "alternativas": "(A) A incompetência relativa pode ser alegada a qualquer tempo.\n(B) A incompetência relativa sempre pode ser conhecida de ofício pelo juiz.\n(C) A incompetência absoluta gera a nulidade de todos os atos praticados no processo até seu reconhecimento.\n(D) A incompetência absoluta é alegada como preliminar da contestação ou por petição nos autos.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "238",
+    "texto": "Com relação ao procedimento da execução por quantia certa, contra devedor solvente, fundado em título extrajudicial, é correto afirmar que:",
+    "alternativas": "(A) o executado é citado para, no prazo de três dias, apresentar embargos.\n(B) o credor só pode indicar os bens a serem penhorados se o executado não se manifestar no prazo legal, após ser citado.\n(C) o juiz pode, de ofício, e a qualquer tempo, determinar a intimação do executado para indicar bens passíveis de penhora.\n(D) o juiz somente fixará os honorários de advogado a serem pagos pelo executado ao fim do processo de execução.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "239",
+    "texto": "Um advogado é procurado em seu escritório por um cliente que lhe narra que a empresa da qual ele é diretor foi citada pelo poder judiciário... em razão de contrato de compra e venda no qual inseriram cláusula compromissória cheia... O advogado ao peticionar... deverá:",
+    "alternativas": "(A) requerer a designação de audiência de conciliação, pois o juiz pode conhecer de ofício da pré-existência da convenção de arbitragem.\n(B) apresentar desde logo contestação, restringindo sua argumentação ao exame do mérito da causa.\n(C) apresentar contestação e alegar expressamente, em preliminar, a existência de convenção de arbitragem, solicitando a extinção do feito.\n(D) solicitar ao juiz o julgamento antecipado da lide.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "240",
+    "texto": "Se, durante a audiência de instrução e julgamento, um advogado, exercendo seu mister de bem defender os interesses de seu cliente, entende que a testemunha arrolada pela parte contrária mantém com essa vínculo estreito de amizade... esse advogado deverá:",
+    "alternativas": "(A) contraditar a testemunha, devendo a audiência, nesse caso, ser necessária e imediatamente interrompida.\n(B) contraditar a testemunha, que mesmo assim poderá ser ouvida como informante do juízo, desde que o magistrado fundamente sua decisão de ouví-la.\n(C) contraditar a testemunha, hipótese em que estará o juiz obrigado a dispensá-la.\n(D) contraditar a testemunha, que será ouvida após a audiência, sem a presença das partes.",
+    "gabarito": "B",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "241",
+    "texto": "O Mandado de Segurança Coletivo, previsto no art. 5º, inciso LXX da Constituição da República... Acerca desta garantia constitucional é correto afirmar que:",
+    "alternativas": "(A) qualquer cidadão tem legitimidade para impetrar o mandado de segurança coletivo.\n(B) no mandado de segurança coletivo, a sentença fará coisa julgada limitadamente aos membros do grupo substituído pelo impetrante.\n(C) o mandado de segurança coletivo pode ser utilizado na defesa de direitos difusos.\n(D) o mandado de segurança coletivo induz litispendência para as ações individuais que tenham o mesmo objeto.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "242",
+    "texto": "Acerca da revelia, é correto afirmar que:",
+    "alternativas": "(A) a revelia se dá com a não apresentação de exceção ou de reconvenção no prazo da resposta.\n(B) ainda que o litígio verse sobre direitos indisponíveis, a revelia produz seus efeitos normalmente.\n(C) contra o revel, ainda que tenha patrono constituído nos autos, correrão os prazos independentemente de intimação.\n(D) o revel pode intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "243",
+    "texto": "Com relação ao procedimento da curatela dos interditos, é correto afirmar que:",
+    "alternativas": "(A) na ausência dos pais, do tutor e do cônjuge, um parente próximo pode requerer a interdição.\n(B) a sentença proferida pelo juiz faz coisa julgada material.\n(C) a realização de prova pericial, consistente no exame do interditando, é facultativa, podendo o juiz dispensá-la.\n(D) o Ministério Público não tem legitimidade para requerer a interdição.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "244",
+    "texto": "No contexto da teoria das nulidades do contrato de trabalho, assinale a alternativa correta.",
+    "alternativas": "(A) Configurado o trabalho ilícito, é devido ao empregado somente o pagamento da contraprestação salarial pactuada.\n(B) Os trabalhos noturno, perigoso e insalubre do menor de 18 anos são modalidades de trabalho proibido ou irregular.\n(C) O trabalho do menor de 16 anos que não seja aprendiz é modalidade de trabalho ilícito, não gerando qualquer efeito.\n(D) A falta de anotação da CTPS invalida o contrato de trabalho.",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "245",
+    "texto": "A respeito do regime de compensação de jornada do banco de horas, assinale a alternativa correta.",
+    "alternativas": "(A) Pode ser instituído mediante acordo verbal.\n(B) Não admite compensação que ultrapasse 10 horas diárias.\n(C) Pode ser compensado após a rescisão se houver crédito em favor do trabalhador.\n(D) O excesso de jornada não pode exceder, no prazo máximo de um semestre, a soma das jornadas semanais previstas.",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "246",
+    "texto": "O empregado João foi contratado para trabalhar como caixa... Diante do caso concreto:",
+    "alternativas": "(A) Está correta a aplicação da justa causa.\n(B) Está incorreta a justa causa, pois João cometeu insubordinação.\n(C) Está incorreta a justa causa, pois João cometeu mau procedimento.\n(D) Está incorreta a justa causa, pois houve bis in idem.",
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "247",
+    "texto": "Com relação ao regime de férias, é correto afirmar que:",
+    "alternativas": "(A) As férias devem ser pagas com 1/3 até 30 dias antes do início.\n(B) As férias podem ser gozadas em dois períodos, salvo gestantes e menores de 18.\n(C) O empregado que pede demissão antes de completar período aquisitivo faz jus a férias proporcionais.\n(D) As férias podem ser convertidas integralmente em abono pecuniário.",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "248",
+    "texto": "Com relação ao Direito Coletivo do Trabalho, assinale a alternativa correta.",
+    "alternativas": "(A) Acordo coletivo é firmado entre sindicatos.\n(B) Em greve de serviços essenciais, comunicação aos usuários deve ocorrer com 72h de antecedência.\n(C) Centrais sindicais podem celebrar acordos coletivos.\n(D) Contribuição sindical obrigatória apenas para filiados.",
+    "gabarito": "B",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "249",
+    "texto": "Paulo, empregado de siderúrgica, sofreu acidente... Assinale a alternativa correta.",
+    "alternativas": "(A) Paulo tem direito à reintegração.\n(B) Paulo tem direito à readmissão.\n(C) Paulo deve ser readmitido devido à interrupção do contrato.\n(D) Paulo tem direito à reintegração devido à suspensão do contrato.",
+    "gabarito": "D",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "250",
+    "texto": "Marcos foi contratado como escriturário... Ingressou com ação pedindo equiparação... Assinale a alternativa correta:",
+    "alternativas": "(A) O pedido é inepto.\n(B) O pedido deve ser julgado improcedente.\n(C) O pedido deve ser julgado procedente se comprovado que exercia funções de tesoureiro.\n(D) O pedido é procedente apenas após decisão judicial que determine reenquadramento.",
+    "gabarito": "C",
+    "disciplina": "Direito do Trabalho"
+  },
+  {
+    "id_questoes": "251",
+    "texto": "De acordo com o Código Penal, assinale a alternativa correta acerca das penas restritivas de direitos.",
+    "alternativas": "(A) Substituem as penas privativas de liberdade quando iguais ou inferiores a quatro anos, desde que o réu não seja reincidente.\n(B) Podem ser aplicadas mesmo quando a pena privativa de liberdade for superior a quatro anos.\n(C) Não podem ser aplicadas em crimes culposos.\n(D) São aplicadas apenas quando expressamente previstas no tipo penal.",
+    "gabarito": "A",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "252",
+    "texto": "Acerca do crime de peculato, previsto no Código Penal, assinale a alternativa correta.",
+    "alternativas": "(A) Só pode ser praticado por funcionário público.\n(B) Pode ser praticado por particular em concurso com funcionário público.\n(C) Admite forma culposa.\n(D) Equipara-se a funcionário público todo aquele que exerce mandato eletivo, excluídos os servidores temporários.",
+    "gabarito": "B",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "253",
+    "texto": "Acerca da ação penal pública condicionada, assinale a alternativa correta.",
+    "alternativas": "(A) A representação pode ser retratada até o oferecimento da denúncia.\n(B) O Ministério Público pode promover a ação penal mesmo sem representação.\n(C) A representação é irretratável.\n(D) A representação pode ser retratada até a sentença.",
+    "gabarito": "A",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "254",
+    "texto": "No Tribunal do Júri, assinale a alternativa correta.",
+    "alternativas": "(A) A decisão de pronúncia faz coisa julgada material.\n(B) A decisão de impronúncia impede novo oferecimento de denúncia.\n(C) A decisão de desclassificação pode ser proferida pelo juiz presidente.\n(D) A sentença de absolvição sumária é proferida pelo conselho de sentença.",
+    "gabarito": "C",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "255",
+    "texto": "Acerca da competência territorial na ação penal, assinale a alternativa correta.",
+    "alternativas": "(A) Regra geral: domicílio do réu.\n(B) Regra geral: local da consumação do delito.\n(C) Crimes permanentes: local da consumação, mesmo que a permanência tenha ocorrido em outras comarcas.\n(D) Crimes plurilocais: competência da prevenção.",
+    "gabarito": "B",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "256",
+    "texto": "Sobre o procedimento comum do Código de Processo Penal, assinale a alternativa correta.",
+    "alternativas": "(A) Após a citação, o acusado apresentará defesa preliminar no prazo de 10 dias.\n(B) Após a defesa, o juiz poderá absolver sumariamente o réu.\n(C) O juiz não pode indeferir provas requeridas pela defesa.\n(D) O Ministério Público só é intimado depois da instrução.",
+    "gabarito": "B",
+    "disciplina": "Direito Processual Penal"
+  },
+  {
+    "id_questoes": "257",
+    "texto": "Sobre a prisão preventiva, assinale a alternativa correta.",
+    "alternativas": "(A) Pode ser decretada de ofício pelo juiz.\n(B) Pode ser decretada apenas mediante representação da autoridade policial.\n(C) Pode ser decretada na fase investigatória.\n(D) Só pode ser decretada após o recebimento da denúncia.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual Penal"
+  },
+  {
+    "id_questoes": "258",
+    "texto": "Sobre a competência do Tribunal do Júri, assinale a alternativa correta.",
+    "alternativas": "(A) Compete ao tribunal julgar crimes dolosos contra a vida, consumados e tentados.\n(B) Compete ao tribunal julgar crimes dolosos contra a vida apenas consumados.\n(C) Compete ao tribunal julgar todas as infrações penais dolosas.\n(D) Compete ao tribunal julgar crimes dolosos contra a vida e os crimes conexos, salvo decisão em contrário do juiz presidente.",
+    "gabarito": "A",
+    "disciplina": "Direito Processual Penal"
+  },
+  {
+    "id_questoes": "259",
+    "texto": "Sobre o inquérito policial, assinale a alternativa correta.",
+    "alternativas": "(A) É indispensável à ação penal.\n(B) É sigiloso e tem natureza acusatória.\n(C) Pode ser arquivado pela autoridade policial.\n(D) É peça informativa dispensável.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual Penal"
+  },
+  {
+    "id_questoes": "260",
+    "texto": "Sobre o crime de homicídio privilegiado, assinale a alternativa correta.",
+    "alternativas": "(A) Exige relevante valor moral, relevante valor social ou domínio de violenta emoção.\n(B) É forma qualificada do crime.\n(C) Impede a incidência de qualificadoras.\n(D) A pena sempre será substituída por restritiva de direitos.",
+    "gabarito": "A",
+    "disciplina": "Direito Penal"
+  },
+    {
+    "id_questoes": "261",
+    "texto": "Sobre o processo de execução fiscal, assinale a alternativa correta.",
+    "alternativas": "(A) A execução fiscal pode ser proposta sem constituição definitiva do crédito tributário.\n(B) A garantia do juízo é requisito para apresentação de embargos à execução.\n(C) A citação do executado será sempre por oficial de justiça.\n(D) A Fazenda Pública pode desistir da execução sem ouvir o executado.",
+    "gabarito": "B",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "262",
+    "texto": "Acerca do lançamento tributário, assinale a alternativa correta.",
+    "alternativas": "(A) O lançamento é ato vinculado da Administração Tributária.\n(B) O lançamento constitui, modifica e extingue obrigações tributárias.\n(C) O lançamento por declaração é feito exclusivamente pelo contribuinte.\n(D) O lançamento pode ser alterado pelo contribuinte sem prévia autorização.",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "263",
+    "texto": "Sobre a responsabilidade tributária, assinale a alternativa correta.",
+    "alternativas": "(A) A responsabilidade por substituição depende de lei complementar.\n(B) Os sucessores respondem integralmente pelos tributos, independentemente de limite patrimonial.\n(C) O responsável tributário é obrigado ao pagamento mesmo que não tenha relação com o fato gerador.\n(D) A responsabilidade por transferência ocorre nos casos de fusão, cisão e incorporação.",
+    "gabarito": "D",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "264",
+    "texto": "Sobre os princípios constitucionais tributários, assinale a alternativa correta.",
+    "alternativas": "(A) A anterioridade anual impede cobrança de tributo no mesmo exercício em que foi instituído.\n(B) A anterioridade nonagesimal impede cobrança antes de 180 dias.\n(C) O princípio da legalidade pode ser excepcionado por medida provisória.\n(D) A irretroatividade impede cobrança de tributo válido na época dos fatos.",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "265",
+    "texto": "Sobre imunidade tributária, assinale a alternativa correta.",
+    "alternativas": "(A) Os templos de qualquer culto são imunes apenas quanto ao IPTU.\n(B) A imunidade recíproca alcança empresas estatais que exploram atividade econômica.\n(C) Livros, jornais e periódicos são imunes à tributação, inclusive seus insumos.\n(D) Partidos políticos não possuem imunidade.",
+    "gabarito": "C",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "266",
+    "texto": "Sobre o ICMS, assinale a alternativa correta.",
+    "alternativas": "(A) Incide sobre operações relativas a serviços de transporte intermunicipal.\n(B) Incide sobre operações no mercado externo.\n(C) Não incide sobre operações de arrendamento mercantil.\n(D) Incide sobre prestações de serviços de comunicação.",
+    "gabarito": "D",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "267",
+    "texto": "Sobre o IPI, assinale a alternativa correta.",
+    "alternativas": "(A) É não cumulativo.\n(B) Incide sobre produtos industrializados usados.\n(C) Não pode ter seletividade.\n(D) Incide na importação apenas de produtos novos.",
+    "gabarito": "A",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "268",
+    "texto": "Sobre taxas e contribuições de melhoria, assinale a alternativa correta.",
+    "alternativas": "(A) Taxa pode ter base de cálculo idêntica à do imposto.\n(B) Taxa decorre de atuação estatal específica e divisível.\n(C) Contribuição de melhoria não depende de valorização imobiliária.\n(D) Taxas são tributos facultativos.",
+    "gabarito": "B",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "269",
+    "texto": "Sobre a contribuição previdenciária, assinale a alternativa correta.",
+    "alternativas": "(A) Somente trabalhadores empregados são segurados obrigatórios.\n(B) A filiação ao RGPS é sempre facultativa.\n(C) O empregador doméstico deve recolher contribuição substitutiva.\n(D) O contribuinte individual é segurado obrigatório.",
+    "gabarito": "D",
+    "disciplina": "Direito Previdenciário"
+  },
+  {
+    "id_questoes": "270",
+    "texto": "Sobre os benefícios previdenciários, assinale a alternativa correta.",
+    "alternativas": "(A) A aposentadoria por invalidez exige carência de 24 contribuições.\n(B) O auxílio-doença não exige carência nos casos de acidente.\n(C) A aposentadoria por idade rural exige 20 anos de carência.\n(D) O salário-maternidade é devido somente às seguradas empregadas.",
+    "gabarito": "B",
+    "disciplina": "Direito Previdenciário"
+  },
+  {
+    "id_questoes": "271",
+    "texto": "Sobre o custeio da Previdência Social, assinale a alternativa correta.",
+    "alternativas": "(A) As contribuições sociais podem ser instituídas por lei ordinária.\n(B) O salário-maternidade integra o salário de contribuição.\n(C) O empregador está dispensado de recolher contribuição sobre o salário-família.\n(D) O contribuinte individual contribui sobre qualquer valor, sem piso.",
+    "gabarito": "C",
+    "disciplina": "Direito Previdenciário"
+  },
+  {
+    "id_questoes": "272",
+    "texto": "Acerca das ações acidentárias, assinale a alternativa correta.",
+    "alternativas": "(A) São julgadas pela Justiça Federal.\n(B) A perícia médica deve ser feita exclusivamente pelo perito do INSS.\n(C) Em caso de acidente de trabalho, a Justiça estadual é competente.\n(D) O segurado não pode ingressar com ação acidentária sem esgotar a via administrativa.",
+    "gabarito": "C",
+    "disciplina": "Direito Previdenciário"
+  },
+  {
+    "id_questoes": "273",
+    "texto": "Sobre o regime próprio dos servidores públicos, assinale a alternativa correta.",
+    "alternativas": "(A) A aposentadoria compulsória ocorre aos 70 anos para todos os servidores.\n(B) A aposentadoria por invalidez será sempre com proventos integrais.\n(C) A contribuição previdenciária incide apenas sobre remuneração acima do teto.\n(D) Os regimes próprios devem observar regras de equilíbrio financeiro e atuarial.",
+    "gabarito": "D",
+    "disciplina": "Direito Previdenciário"
+  },
+  {
+    "id_questoes": "274",
+    "texto": "Sobre princípios constitucionais da Administração Pública, assinale a alternativa correta.",
+    "alternativas": "(A) A moralidade administrativa não é exigível em atos discricionários.\n(B) O princípio da publicidade não admite exceções.\n(C) A impessoalidade vincula a Administração à finalidade pública.\n(D) A eficiência não é princípio constitucional expresso.",
+    "gabarito": "C",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "275",
+    "texto": "Sobre atos administrativos, assinale a alternativa correta.",
+    "alternativas": "(A) A autoexecutoriedade depende sempre de autorização judicial.\n(B) O ato discricionário não pode ser revogado.\n(C) O ato vinculado pode ser anulado pela própria Administração.\n(D) A convalidação é vedada nos atos administrativos.",
+    "gabarito": "C",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "276",
+    "texto": "Sobre licitações públicas, assinale a alternativa correta.",
+    "alternativas": "(A) Na modalidade convite, é obrigatória a publicação em diário oficial.\n(B) Na concorrência, não há exigência de qualificação econômica.\n(C) O pregão destina-se à contratação de bens e serviços comuns.\n(D) Tomada de preços é destinada a contratos de grande vulto.",
+    "gabarito": "C",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "277",
+    "texto": "Sobre os contratos administrativos, assinale a alternativa correta.",
+    "alternativas": "(A) A alteração unilateral é vedada.\n(B) A rescisão unilateral pelo poder público é possível.\n(C) A Administração não pode exigir garantias.\n(D) O contratado pode suspender unilateralmente a execução.",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "278",
+    "texto": "Sobre responsabilidade civil do Estado, assinale a alternativa correta.",
+    "alternativas": "(A) É subjetiva em regra.\n(B) O Estado responde apenas por atos comissivos.\n(C) Admite ação regressiva contra o agente com dolo ou culpa.\n(D) Não alcança atos praticados por concessionárias.",
+    "gabarito": "C",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "279",
+    "texto": "Sobre bens públicos, assinale a alternativa correta.",
+    "alternativas": "(A) Bens dominicais são afetados a uso comum.\n(B) Bens de uso especial são destinados à exploração econômica.\n(C) Bens públicos são sempre alienáveis.\n(D) Bens de uso comum do povo são inalienáveis enquanto afetados.",
+    "gabarito": "D",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "280",
+    "texto": "Sobre servidores públicos, assinale a alternativa correta.",
+    "alternativas": "(A) A estabilidade é adquirida após 5 anos de efetivo exercício.\n(B) Demissão e cassação de aposentadoria são penalidades cabíveis.\n(C) A exoneração é penalidade disciplinar.\n(D) O cargo em comissão confere estabilidade.",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "281",
+    "texto": "Sobre direitos políticos, assinale a alternativa correta.",
+    "alternativas": "(A) O alistamento eleitoral é facultativo para maiores de 60 anos.\n(B) Estrangeiros podem se alistar como eleitores.\n(C) A cassação de direitos políticos é admitida em caso de improbidade administrativa.\n(D) A perda e a suspensão dos direitos políticos não dependem de decisão judicial.",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "282",
+    "texto": "Sobre o processo legislativo, assinale a afirmativa correta.",
+    "alternativas": "(A) A sanção presidencial convalida vício de iniciativa.\n(B) A medida provisória não pode tratar de direito penal.\n(C) Emendas à Constituição podem ser propostas pelo Presidente, pelo STF ou pelo PGR.\n(D) O veto presidencial só pode ser jurídico.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "283",
+    "texto": "Sobre controle de constitucionalidade, assinale a alternativa correta.",
+    "alternativas": "(A) O STF pode realizar controle preventivo.\n(B) O Senado pode suspender atos normativos estaduais.\n(C) A ação declaratória de constitucionalidade exige controvérsia judicial relevante.\n(D) A ADI por omissão não produz efeitos concretos.",
+    "gabarito": "C",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "284",
+    "texto": "Sobre imunidade tributária, assinale a alternativa correta.",
+    "alternativas": "(A) IGREJAS são imunes a qualquer tributo.\n(B) A imunidade recíproca alcança empresas públicas prestadoras de serviço público.\n(C) Partidos políticos têm imunidade apenas de IR.\n(D) Imunidades podem ser revogadas por lei complementar.",
+    "gabarito": "B",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "285",
+    "texto": "Sobre lançamento tributário, assinale a alternativa correta.",
+    "alternativas": "(A) O lançamento por homologação depende de ato administrativo formal.\n(B) No lançamento direto, o contribuinte declara e paga o tributo.\n(C) O lançamento de ofício ocorre quando há fraude ou omissão.\n(D) Após o lançamento, o crédito tributário não pode ser revisto.",
+    "gabarito": "C",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "286",
+    "texto": "Sobre responsabilidade tributária, assinale a alternativa correta.",
+    "alternativas": "(A) O sucessor sempre responde integralmente.\n(B) O sócio-gerente responde por dívida tributária da empresa mesmo sem dolo.\n(C) O adquirente de fundo de comércio responde pelos tributos do estabelecimento.\n(D) A responsabilidade solidária depende de lei complementar.",
+    "gabarito": "C",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "287",
+    "texto": "Sobre obrigação tributária, assinale a alternativa correta.",
+    "alternativas": "(A) O fato gerador sempre ocorre com o ingresso do tributo.\n(B) A obrigação principal surge com o fato gerador.\n(C) Obrigações acessórias não podem se converter em principal.\n(D) Penalidades não têm natureza tributária.",
+    "gabarito": "B",
+    "disciplina": "Direito Tributário"
+  },
+  {
+    "id_questoes": "288",
+    "texto": "Sobre mandado de segurança, assinale a alternativa correta.",
+    "alternativas": "(A) É cabível contra lei em tese.\n(B) Exige prévio esgotamento da via administrativa.\n(C) Admite liminar para compensação de créditos tributários.\n(D) Protege direito líquido e certo contra autoridade pública.",
+    "gabarito": "D",
+    "disciplina": "Direito Processual"
+  },
+  {
+    "id_questoes": "289",
+    "texto": "Sobre ação popular, assinale a alternativa correta.",
+    "alternativas": "(A) Estrangeiros residentes podem propor.\n(B) Exige demonstração de dano ao patrimônio público.\n(C) Não admite liminar.\n(D) Não admite desistência do autor.",
+    "gabarito": "B",
+    "disciplina": "Direito Constitucional"
+  },
+  {
+    "id_questoes": "290",
+    "texto": "Sobre competência penal, assinale a alternativa correta.",
+    "alternativas": "(A) Competência da Justiça Federal é residual.\n(B) Crimes contra bens, serviços ou interesse da União são federais.\n(C) Habeas corpus sempre é julgado pelo juiz do processo.\n(D) Competência militar não alcança civis.",
+    "gabarito": "B",
+    "disciplina": "Direito Penal / Processual Penal"
+  },
+  {
+    "id_questoes": "291",
+    "texto": "Sobre prisão preventiva, assinale a alternativa correta.",
+    "alternativas": "(A) Exige prova plena da autoria.\n(B) Pode ser decretada de ofício pelo juiz.\n(C) Exige requisitos do art. 312 do CPP.\n(D) Não pode ser substituída por medidas cautelares.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual Penal"
+  },
+  {
+    "id_questoes": "292",
+    "texto": "Sobre crimes contra a honra, assinale a alternativa correta.",
+    "alternativas": "(A) Calúnia admite prova da verdade sem exceções.\n(B) Injúria qualificada é punida somente com multa.\n(C) Difamação exige imputação falsa de fato criminoso.\n(D) Injúria racial é equiparada a racismo.",
+    "gabarito": "D",
+    "disciplina": "Direito Penal"
+  },
+  {
+    "id_questoes": "293",
+    "texto": "Sobre o Tribunal do Júri, assinale a alternativa correta.",
+    "alternativas": "(A) A soberania dos veredictos é relativa.\n(B) O júri julga crimes dolosos contra qualquer pessoa.\n(C) O conselho de sentença decide apenas matéria de fato.\n(D) O juiz presidente não pode absolver o réu.",
+    "gabarito": "C",
+    "disciplina": "Direito Processual Penal"
+  },
+  {
+    "id_questoes": "294",
+    "texto": "Sobre a execução penal, assinale a alternativa correta.",
+    "alternativas": "(A) O regime fechado admite livramento condicional.\n(B) O trabalho externo no semiaberto não é permitido.\n(C) Faltas graves interrompem o prazo para progressão.\n(D) O pagamento de multa não afeta benefícios.",
+    "gabarito": "C",
+    "disciplina": "Direito Penal / Execução Penal"
+  },
+  {
+    "id_questoes": "295",
+    "texto": "Sobre contratos, assinale a alternativa correta.",
+    "alternativas": "(A) A lesão exige aproveitamento da inexperiência do outro.\n(B) O erro essencial não autoriza anulação.\n(C) Contrato preliminar não obriga à celebração do definitivo.\n(D) A simulação não gera nulidade.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "296",
+    "texto": "Sobre propriedade, assinale a alternativa correta.",
+    "alternativas": "(A) A usucapião não se aplica a bens públicos.\n(B) A acessão é forma derivada de aquisição.\n(C) O condomínio não admite divisão.\n(D) O direito de construir não admite limitações.",
+    "gabarito": "A",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "297",
+    "texto": "Sobre família, assinale a alternativa correta.",
+    "alternativas": "(A) União estável exige tempo mínimo.\n(B) O divórcio depende de separação prévia.\n(C) A guarda compartilhada é regra.\n(D) O casamento nuncupativo dispensa testemunhas.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil / Família"
+  },
+  {
+    "id_questoes": "298",
+    "texto": "Sobre sucessões, assinale a alternativa correta.",
+    "alternativas": "(A) Herdeiros colaterais excluem ascendentes.\n(B) Testamento pode contemplar 100% do patrimônio.\n(C) Cônjuge sobrevivente é herdeiro necessário.\n(D) A renúncia pode ser parcial.",
+    "gabarito": "C",
+    "disciplina": "Direito Civil"
+  },
+  {
+    "id_questoes": "299",
+    "texto": "Diante das disposições estabelecidas pela Lei n. 9.605/98 sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, assinale a alternativa correta.",
+    "alternativas": "(A) A desconsideração da pessoa jurídica somente será admitida se a pena restritiva de direitos se revelar inócua.\n(B) A pena restritiva de direitos da pessoa jurídica terá duração equivalente aos efeitos negativos do dano ambiental.\n(C) A lei de crimes ambientais criou excludente de antijuridicidade para comércio de fauna silvestre para subsistência familiar.\n(D) Os crimes ambientais, em regra, são de perigo abstrato.",
+    "gabarito": "D",
+    "disciplina": "Direito Ambiental"
+  },
+  {
+    "id_questoes": "300",
+    "texto": "Sobre improbidade administrativa, assinale a alternativa correta.",
+    "alternativas": "(A) A perda da função pública é automática.\n(B) Exige dolo para atos que importam enriquecimento ilícito.\n(C) A suspensão dos direitos políticos é facultativa.\n(D) Pessoa jurídica não pode ser responsabilizada.",
+    "gabarito": "B",
+    "disciplina": "Direito Administrativo"
+  },
+  {
+    "id_questoes": "301",
+    "texto": "Sobre direitos do consumidor, assinale a alternativa correta.",
+    "alternativas": "(A) Cláusulas abusivas são permitidas mediante destaque.\n(B) A responsabilidade do fornecedor é sempre subjetiva.\n(C) O consumidor não pode exigir substituição imediata de produto.\n(D) Publicidade enganosa gera responsabilidade objetiva.",
+    "gabarito": "D",
+    "disciplina": "Direito do Consumidor"
+  },
+  {
+    "id_questoes": "302",
+    "texto": "Sobre ética profissional do advogado, assinale a alternativa correta.",
+    "alternativas": "(A) É permitida a captação de clientela.\n(B) O advogado pode fazer propaganda mercantil de seus serviços.\n(C) O sigilo profissional é regra, salvo justa causa.\n(D) Honorários devem ser fixados exclusivamente pela OAB.",
+    "gabarito": "C",
+    "disciplina": "Ética Profissional"
+  }
+]

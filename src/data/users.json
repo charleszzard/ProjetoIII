@@ -1,0 +1,10 @@
+[
+  { "id": "1", "name": "Pedro Santos", "email": "pedro@gmail.com", "password": "123456", "avatar": "PS" },
+  { "id": "2", "name": "Emily Mangas", "email": "emily@gmail.com", "password": "123456", "avatar": "EM" },
+  { "id": "3", "name": "Charles Júnio", "email": "charles@gmail.com", "password": "123456", "avatar": "CJ" },
+  { "id": "4", "name": "Fernanda Pinheiro", "email": "fernanda@gmail.com", "password": "123456", "avatar": "FP" },
+  { "id": "5", "name": "Alisson Ribeiro", "email": "alisson@gmail.com", "password": "123456", "avatar": "AR" },
+  { "id": "6", "name": "Matheus Walles", "email": "matheus@gmail.com", "password": "123456", "avatar": "MW" },
+  { "id": "7", "name": "Enrico Montovanelli", "email": "enrico@gmail.com", "password": "123456", "avatar": "EC" },
+  { "id": "8", "name": "Hebert Santos", "email": "hebert@gmail.com", "password": "123456", "avatar": "HS" }
+]
